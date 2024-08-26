@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+NAME:Radarr Movies Calendar
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Warner Bros. Pictures
+DESCRIPTION:Thirty-six years after the events of the first film\, the Deet
+ z family returns home to Winter River following Charles Deetz's unexpecte
+ d death. Lydia's life is turned upside down when her rebellious teenage d
+ aughter\, Astrid\, discovers the mysterious model of the town in the atti
+ c and the portal to the Afterlife is accidentally opened\, releasing Bete
+ lgeuse.
+DTEND;VALUE=DATE:20240905
+DTSTAMP:20240826T071141Z
+DTSTART;VALUE=DATE:20240904
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Beetlejuice Beetlejuice (Theatrical Release)
+UID:Radarr_movie_345_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Edge City Productions
+DESCRIPTION:A down and out young punk gets a job working with a seasoned r
+ epo man\, but what awaits him in his new career is a series of outlandish
+  adventures revolving around aliens\, the CIA\, and a most wanted '64 Che
+ vy.
+DTEND;VALUE=DATE:19840303
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:19840302
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Repo Man (Theatrical Release)
+UID:Radarr_movie_543_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Edge City Productions
+DESCRIPTION:A down and out young punk gets a job working with a seasoned r
+ epo man\, but what awaits him in his new career is a series of outlandish
+  adventures revolving around aliens\, the CIA\, and a most wanted '64 Che
+ vy.
+DTEND;VALUE=DATE:20130414
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20130413
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Repo Man (Digital Release)
+UID:Radarr_movie_543_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Edge City Productions
+DESCRIPTION:A down and out young punk gets a job working with a seasoned r
+ epo man\, but what awaits him in his new career is a series of outlandish
+  adventures revolving around aliens\, the CIA\, and a most wanted '64 Che
+ vy.
+DTEND;VALUE=DATE:20240904
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240903
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Repo Man (Physical Release)
+UID:Radarr_movie_543_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:The Electric Shadow Company
+DESCRIPTION:Soulmates Eric and Shelly are brutally murdered when the demon
+ s of her dark past catch up with them. Given the chance to save his true 
+ love by sacrificing himself\, Eric sets out to seek merciless revenge on 
+ their killers\, traversing the worlds of the living and the dead to put t
+ he wrong things right.
+DTEND;VALUE=DATE:20240822
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240821
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Crow (Theatrical Release)
+UID:Radarr_movie_561_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:2AM
+DESCRIPTION:Diagnosed with a black hole growing inside her chest and stuck
+  in a loop reliving the last five days of her life\, a 55-year-old wife a
+ nd mother from Miami\, Florida decides to solve time travel in order to g
+ o back and be the person she always intended to be.
+DTEND;VALUE=DATE:20240921
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240920
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Omni Loop (Theatrical Release)
+UID:Radarr_movie_771_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:2AM
+DESCRIPTION:Diagnosed with a black hole growing inside her chest and stuck
+  in a loop reliving the last five days of her life\, a 55-year-old wife a
+ nd mother from Miami\, Florida decides to solve time travel in order to g
+ o back and be the person she always intended to be.
+DTEND;VALUE=DATE:20240921
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240920
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Omni Loop (Digital Release)
+UID:Radarr_movie_771_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Parallel 45
+DESCRIPTION:Iman\, an investigating judge in the Revolutionary Court in Te
+ hran\, grapples with mistrust and paranoia as nationwide political protes
+ ts intensify and his gun mysteriously disappears. Suspecting the involvem
+ ent of his wife Najmeh and his daughters Rezvan and Sana\, he imposes dra
+ stic measures at home\, causing tensions to rise. Step by step\, social n
+ orms and the rules of family life are being suspended.
+DTEND;VALUE=DATE:20240919
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240918
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Seed of the Sacred Fig (Theatrical Release)
+UID:Radarr_movie_857_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Zee is a feared contract killer known as "the Queen of the Dea
+ d\," but when she refuses to murder a young blind woman\, she finds herse
+ lf hunted both by criminal colleagues and a determined police detective.
+DTEND;VALUE=DATE:20240823
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240822
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Killer (Theatrical Release)
+UID:Radarr_movie_871_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Zee is a feared contract killer known as "the Queen of the Dea
+ d\," but when she refuses to murder a young blind woman\, she finds herse
+ lf hunted both by criminal colleagues and a determined police detective.
+DTEND;VALUE=DATE:20240823
+DTSTAMP:20240826T071142Z
+DTSTART;VALUE=DATE:20240822
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Killer (Digital Release)
+UID:Radarr_movie_871_digital
+END:VEVENT
+END:VCALENDAR
