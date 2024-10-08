@@ -4,22 +4,87 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:Yancy learns that his plan has gone awry\, leaving Rosa in dan
- ger. Eve and the Dragon Queen have a reckoning.
-DTSTAMP:20241007T024007Z
+DESCRIPTION:A culinary storyteller and celebrated custodian of Italian tra
+ dition\, Evan Funke brings the vibrant flavors of Italian cuisine to life
+ . The two-time James Beard-nominated chef is a master of the old world te
+ chniques of handmade pasta. Widely known for his dedication to seasonalit
+ y\, warm hospitality\, and reverence for the deep-rooted culinary traditi
+ ons of Italy\, he brings more than two decades of excellence to all of hi
+ s restaurants — Funke in Beverly Hills\; Mother Wolf in Hollywood and Las
+  Vegas\; Felix in Venice Beach\; Tre Dita in Chicago\; and the forthcomin
+ g Mother Wolf in Miami\, slated to open Fall 2024. Funke is also the auth
+ or of the critically acclaimed cookbook American Sfoglino and the subject
+  of the feature-length documentary film titled Funke\, which recounts his
+  journey as a chef through to the opening of his first restaurant.
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241002
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Bad Monkey - 1x09 - You Really Don’t Want to Kill This Scrumptious
-  Little Puppy
-UID:NzbDrone_episode_21042
+SUMMARY:Chef's Table: Noodles - 1x01 - Evan Funke
+UID:NzbDrone_episode_21075
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A pioneer of Shaanxi cuisine in the UK\, Guirong Wei’s noodle 
+ dishes are a perfect blend of bold flavors and meticulous techniques. Wit
+ h her profound experience of over 25 years in the catering industry\, she
+  stands as the co-owner of acclaimed restaurants Xi’an Impression and the
+  founder of Master Wei Xi’an. Over her career\, Wei’s work has introduced
+  the unique flavors of Shaanxi-style cuisine and significantly boosted it
+ s popularity in London and beyond. She’s been recognized with the Golden 
+ Chopsticks award\, as well as at the OFM Awards as Best Newcomer. Master 
+ Wei was also honored as Time Out’s Best Restaurant and Best Chinese Resta
+ urant.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241002
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chef's Table: Noodles - 1x02 - Guirong Wei
+UID:NzbDrone_episode_21076
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Peppe ​​Guida’s dishes showcase the essence of Italian traditi
+ on with a modern twist. The son of an artist\, Guida is a proudly self-ta
+ ught culinary force\, who combines an eye for fine dining with the simpli
+ city of recipes inspired by his own upbringing in the coastal town of Vic
+ o Equense. That spirit runs through his two acclaimed restaurants\, Antic
+ a Osteria Nonna Rosa\, which has held one Michelin star since 2007\, and 
+ Villa Rosa. With a visceral attachment to his land and its sea\, Guida le
+ ads with the motto “hands in the earth and eyes towards the sea\,” perfec
+ tly encapsulating his style of cooking\, which draws liberally from the p
+ opular tradition of Campania to yield elegant and modern cuisine.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241002
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chef's Table: Noodles - 1x03 - Peppe Guida
+UID:NzbDrone_episode_21077
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A rising star in the culinary world\, Nite Yun proudly introdu
+ ces people to the flavorful noodle dishes of Cambodia\, honoring the lega
+ cy of these recipes passed down through generations. Born in a refugee ca
+ mp in Thailand after her parents escaped war-torn Cambodia\, Yun and her 
+ family eventually resettled in California. Growing up\, she learned to ma
+ ke traditional dishes from her mother\, sparking a lifelong love of cooki
+ ng. She’s since returned to Cambodia to learn more about her parents’ her
+ itage — and bring back the flavors to the Bay Area\, where she now reside
+ s. In 2018\, Yun opened her first restaurant\, Nyum Bai\, before opening 
+ Lunette in San Francisco’s iconic ferry building. She’s been recognized a
+ s one of Time’s 100 Most Influential People\, Food and Wine Best New Chef
+  of 2019\, a James Beard Award semifinalist\, and a recipient of the Vilc
+ ek Foundation Prize for Creative Promise in Culinary Arts.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241002
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chef's Table: Noodles - 1x04 - Nite Yun
+UID:NzbDrone_episode_21078
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Lamb questions David about France as River comes face to face 
  with the enemy.
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241002
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +93,7 @@ UID:NzbDrone_episode_18655
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241003
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -40,7 +105,7 @@ CATEGORIES:Nippon TV
 DESCRIPTION:Tendo Dojo master Soun eagerly awaits the arrival of his old f
  riend Genma Saotome and Genma's son Ranma. Instead\, a teen girl and a gi
  ant panda show up.
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241005
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +116,7 @@ BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Hair twisting\, bodies intertwining\, spirals are developing a
  ll over the town.
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -59,19 +124,21 @@ SUMMARY:Uzumaki - 1x02 - Episode 2
 UID:NzbDrone_episode_19359
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:The aftermath of the reckoning has shocking repercussions.
-DTSTAMP:20241007T024007Z
-DTSTART;VALUE=DATE:20241009
+CATEGORIES:HBO
+DESCRIPTION:Hoping to control the future of Gotham’s drug trade\, Oz and S
+ ofia must first address the skeletons in their closet. Meanwhile\, Victor
+  is torn between his new life and what remains of his old.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241007
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Bad Monkey - 1x10 - We’re in the Memory-Making Business
-UID:NzbDrone_episode_21043
+STATUS:CONFIRMED
+SUMMARY:The Penguin - 1x03 - Bliss
+UID:NzbDrone_episode_21069
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Impossible decisions are faced and sacrifices are made.
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241009
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -80,7 +147,7 @@ UID:NzbDrone_episode_18656
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241010
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -89,7 +156,7 @@ UID:NzbDrone_episode_20921
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241011
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -98,7 +165,7 @@ UID:NzbDrone_episode_19446
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241011
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -107,7 +174,7 @@ UID:NzbDrone_episode_19447
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Nippon TV
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241012
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -116,7 +183,7 @@ UID:NzbDrone_episode_20551
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241013
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,8 +191,20 @@ SUMMARY:Uzumaki - 1x03 - Episode 3
 UID:NzbDrone_episode_19360
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:Confronting the events that turned her into "The Hangman" – an
+ d led to a decade-long fight to survive in Arkham State Hospital – Sofia 
+ makes plans for a more hopeful future.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241014
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Penguin - 1x04 - Cent’anni
+UID:NzbDrone_episode_21070
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241017
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -134,7 +213,7 @@ UID:NzbDrone_episode_20922
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241018
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -143,7 +222,7 @@ UID:NzbDrone_episode_19448
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Nippon TV
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241019
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -152,7 +231,7 @@ UID:NzbDrone_episode_20552
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241020
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,9 +239,21 @@ SUMMARY:Uzumaki - 1x04 - Episode 4
 UID:NzbDrone_episode_19361
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:With his nascent operation at stake\, Oz makes a desperate mov
+ e to turn the tables. Meanwhile\, Sofia strives to build a new legacy for
+  herself.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241021
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Penguin - 1x05 - Homecoming
+UID:NzbDrone_episode_21071
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:TBA
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,7 +264,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:Guillermo gets a new job\, and Colin helps Laszlo make a new f
  riend.
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -184,7 +275,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A dispute over who gets to use the newly available empty room 
  under the stairs gets out of control.
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -193,7 +284,7 @@ UID:NzbDrone_episode_19264
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241024
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -202,7 +293,7 @@ UID:NzbDrone_episode_20923
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241025
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -211,7 +302,7 @@ UID:NzbDrone_episode_19449
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Nippon TV
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241026
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -219,8 +310,20 @@ SUMMARY:Ranma ½ (2024) - 1x04 - TBA
 UID:NzbDrone_episode_20553
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:Despite his enemies’ attempts to smoke him out\, Oz seeks to e
+ xpand his reach in the city. Meanwhile\, Victor crosses paths with a form
+ er adversary.
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241028
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Penguin - 1x06 - Gold Summit
+UID:NzbDrone_episode_21072
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:FX
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -229,7 +332,7 @@ UID:NzbDrone_episode_19265
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -238,7 +341,7 @@ UID:NzbDrone_episode_16686
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -247,7 +350,7 @@ UID:NzbDrone_episode_17908
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -256,7 +359,7 @@ UID:NzbDrone_episode_17909
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -265,7 +368,7 @@ UID:NzbDrone_episode_17910
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -274,7 +377,7 @@ UID:NzbDrone_episode_17911
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -283,7 +386,7 @@ UID:NzbDrone_episode_19453
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -292,7 +395,7 @@ UID:NzbDrone_episode_20924
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241101
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -301,11 +404,20 @@ UID:NzbDrone_episode_19450
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Nippon TV
-DTSTAMP:20241007T024007Z
+DTSTAMP:20241008T024007Z
 DTSTART;VALUE=DATE:20241102
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Ranma ½ (2024) - 1x05 - TBA
 UID:NzbDrone_episode_20554
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTSTAMP:20241008T024007Z
+DTSTART;VALUE=DATE:20241104
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Penguin - 1x07 - Top Hat
+UID:NzbDrone_episode_21073
 END:VEVENT
 END:VCALENDAR
