@@ -5,7 +5,7 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241107
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Unsettling connections between Lynn’s secret project and Noah’
  s drawings are discovered. Eli is forced to confront his skepticism.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241108
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,82 +24,10 @@ SUMMARY:Before (2024) - 1x04 - Symbols and Signs
 UID:NzbDrone_episode_21082
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Oregon ranchers report a wave of animal mutilations linked to 
- crop circles. Are UFOs to blame? George and ex-CIA officer Doug delve int
- o the mystery.
-DTSTAMP:20241113T034007Z
-DTSTART;VALUE=DATE:20241108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Investigation Alien - 1x01 - Why Are They Here?
-UID:NzbDrone_episode_21405
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:George and combat pilot Vee visit a Brazilian island to invest
- igate new sightings and uncover a possible link to a '70s UFO attack that
-  occurred nearby.
-DTSTAMP:20241113T034007Z
-DTSTART;VALUE=DATE:20241108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Investigation Alien - 1x02 - The Brazil Connection
-UID:NzbDrone_episode_21406
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Could extraterrestrials be dwelling in our oceans? George and 
- Doug head to Tampico\, Mexico\, to investigate claims of a magnetic alien
-  base off the coast.
-DTSTAMP:20241113T034007Z
-DTSTART;VALUE=DATE:20241108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Investigation Alien - 1x03 - Alien Waters
-UID:NzbDrone_episode_21407
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Determined to dispute a Pentagon report denying the existence 
- of UFOs\, George digs into a bombshell claim and sends Doug to a possible
-  crash site in Iowa.
-DTSTAMP:20241113T034007Z
-DTSTART;VALUE=DATE:20241108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Investigation Alien - 1x04 - The Counter Report
-UID:NzbDrone_episode_21408
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:George and Vee receive new intel on the Phoenix Lights\, a mas
- s sighting reportedly witnessed by thousands. Experts test the debris fro
- m the Iowa crash.
-DTSTAMP:20241113T034007Z
-DTSTART;VALUE=DATE:20241108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Investigation Alien - 1x05 - The Phoenix Lights
-UID:NzbDrone_episode_21409
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:In a rush to complete his counter report\, George tracks down 
- a witness to a key Big Sur sighting and delves into a theory about time-t
- raveling aliens.
-DTSTAMP:20241113T034007Z
-DTSTART;VALUE=DATE:20241108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Investigation Alien - 1x06 - Alien Identity
-UID:NzbDrone_episode_21410
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:Laszlo's father's ghost returns to make amends\, while Nadja a
  nd Nandor deal with the shapeshifters who have moved in next door.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,8 +35,20 @@ SUMMARY:What We Do in the Shadows - 6x06 - Laszlo's Father
 UID:NzbDrone_episode_19267
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DESCRIPTION:As Detectives Loftus and Houlihan investigate\, Grace’s behavi
+ or becomes increasingly erratic. Roger’s sister\, Angelica\, stirs tensio
+ ns.
+DTSTAMP:20241114T034008Z
+DTSTART;VALUE=DATE:20241113
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bad Sisters - 2x02 - Penance
+UID:NzbDrone_episode_21422
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241114
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -117,7 +57,7 @@ UID:NzbDrone_episode_20926
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241115
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -128,7 +68,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Noah’s condition escalates at the hospital\, leaving Denise de
  sperate for answers. Eli finds recordings of Lynn’s ex\, Benjamin.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241115
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -142,7 +82,7 @@ DESCRIPTION:On Wallach IX\, young Valya Harkonnen promises Mother Superior
  on the Imperial Throne. Thirty years later\, on Salusa Secundus\, Valya w
  orks to combat a new threat to her long-awaited plan for a marriage betwe
  en Princess Ynez-Arat and a young Richese prince.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241118
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -153,7 +93,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:Laszlo and Nandor try to exorcise the demon who has possessed 
  their neighbor Sean.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241119
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -161,8 +101,19 @@ SUMMARY:What We Do in the Shadows - 6x07 - March Madness
 UID:NzbDrone_episode_19268
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DESCRIPTION:A devastating event leaves the sisters reeling. Loftus and Hou
+ lihan’s search takes a turn. Ursula hits a breaking point.
+DTSTAMP:20241114T034008Z
+DTSTART;VALUE=DATE:20241120
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bad Sisters - 2x03 - Missing
+UID:NzbDrone_episode_21423
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241121
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -171,7 +122,7 @@ UID:NzbDrone_episode_20927
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241122
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -180,7 +131,7 @@ UID:NzbDrone_episode_19273
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241122
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -194,7 +145,7 @@ DESCRIPTION:After receiving word about events on Salusa Secundus\, Valya b
  hile\, Desmond makes a confession to Emperor Corrino\, Tula reluctantly e
  nlists Lila for a vital mission\, and distrust swirls around Keiran Atrei
  des\, the sword master for House Corrino.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -206,7 +157,7 @@ CATEGORIES:FX
 DESCRIPTION:Colin and Nadja have a couples' night with an old friend\, whi
  le Nandor and Laszlo battle the film crew that have invaded their neighbo
  rhood.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241126
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -214,8 +165,17 @@ SUMMARY:What We Do in the Shadows - 6x08 - P.I. Undercover: New York
 UID:NzbDrone_episode_19269
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20241114T034008Z
+DTSTART;VALUE=DATE:20241127
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bad Sisters - 2x04 - TBA
+UID:NzbDrone_episode_21424
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241128
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -224,7 +184,7 @@ UID:NzbDrone_episode_20928
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -233,7 +193,7 @@ UID:NzbDrone_episode_19274
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -246,7 +206,7 @@ DESCRIPTION:Following a tragedy\, young Tula worries about being accepted
  despite her family name\, while a skeptical Valya struggles with the deci
  sion to take the Sisterhood vow. Years later\, Valya receives a message t
  hat confirms her suspicions\, and Tula mourns a loss.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241202
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -257,7 +217,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:The vampires get blamed for a murder at a meeting of all the N
  ew York vampires and must find a way back to the safety of Staten Island.
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -265,8 +225,17 @@ SUMMARY:What We Do in the Shadows - 6x09 - Come Out And Play
 UID:NzbDrone_episode_19270
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20241114T034008Z
+DTSTART;VALUE=DATE:20241204
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bad Sisters - 2x05 - TBA
+UID:NzbDrone_episode_21425
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -275,7 +244,7 @@ UID:NzbDrone_episode_20929
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241206
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -284,7 +253,7 @@ UID:NzbDrone_episode_19275
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241206
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -293,7 +262,7 @@ UID:NzbDrone_episode_21086
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241209
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -302,11 +271,20 @@ UID:NzbDrone_episode_21095
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
-DTSTAMP:20241113T034007Z
+DTSTAMP:20241114T034008Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:What We Do in the Shadows - 6x10 - TBA
 UID:NzbDrone_episode_19271
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20241114T034008Z
+DTSTART;VALUE=DATE:20241211
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bad Sisters - 2x06 - TBA
+UID:NzbDrone_episode_21426
 END:VEVENT
 END:VCALENDAR
