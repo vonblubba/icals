@@ -4,23 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:Juliette finds sanctuary in a silo long ago destroyed by war\,
-  thinking she’s alone.
-DTSTAMP:20241122T034006Z
-DTSTART;VALUE=DATE:20241115
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Silo - 2x01 - The Engineer
-UID:NzbDrone_episode_16687
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:On Wallach IX\, young Valya Harkonnen promises Mother Superior
   Raquella that she’ll protect the Sisterhood by putting one of their own 
  on the Imperial Throne. Thirty years later\, Valya faces a threat to her 
  long-awaited plan.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -31,7 +20,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:Laszlo and Nandor try to exorcise the demon who has possessed 
  their neighbor Sean.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -40,10 +29,10 @@ UID:NzbDrone_episode_19268
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241121
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:X Factor (IT) - 18x11 - Live 5
 UID:NzbDrone_episode_20927
 END:VEVENT
@@ -51,7 +40,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:In Silo 18\, shock and unrest take hold in the wake of Juliett
  e doing what no one’s done before.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241122
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -65,7 +54,7 @@ DESCRIPTION:After receiving word about events on Salusa Secundus\, Valya b
  hile\, Desmond makes a confession to Emperor Corrino\, Tula reluctantly e
  nlists Lila for a vital mission\, and distrust swirls around Keiran Atrei
  des\, the sword master for House Corrino.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,7 +66,7 @@ CATEGORIES:FX
 DESCRIPTION:Colin and Nadja have a couples' night with an old friend\, whi
  le Nandor and Laszlo battle the film crew that have invaded their neighbo
  rhood.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241126
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,7 +75,7 @@ UID:NzbDrone_episode_19269
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241128
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,7 +86,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Bernard turns to Judge Meadows for help. Billings begins to wo
  nder if he’s being lied to. Juliette finally meets the man in the vault.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -110,7 +99,7 @@ DESCRIPTION:Following a tragedy\, young Tula worries about being accepted
  despite her family name\, while a skeptical Valya struggles with the deci
  sion to take the Sisterhood vow. Years later\, Valya receives a message t
  hat confirms her suspicions\, and Tula mourns a loss.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241202
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -121,7 +110,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:The vampires get blamed for a murder at a meeting of all the N
  ew York vampires and must find a way back to the safety of Staten Island.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -130,7 +119,7 @@ UID:NzbDrone_episode_19270
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -139,7 +128,7 @@ UID:NzbDrone_episode_20929
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241206
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -154,7 +143,7 @@ DESCRIPTION:After nearly all the acolytes have the same nightmare\, Tula a
  n to redeem House Harkonnen\, Ynez confronts her father about rumors surr
  ounding Desmond\, and Kieran conspires to advance a rebel attack that the
   Sisterhood must try to thwart.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241209
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -165,7 +154,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:The vampires go to an office party to celebrate Guillermo's pr
  omotion.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -174,7 +163,7 @@ UID:NzbDrone_episode_19271
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241213
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -183,7 +172,7 @@ UID:NzbDrone_episode_19276
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -193,11 +182,20 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A surprising twist leads to a change of plans.
-DTSTAMP:20241122T034006Z
+DTSTAMP:20241123T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:What We Do in the Shadows - 6x11 - The Finale
 UID:NzbDrone_episode_19272
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20241123T034007Z
+DTSTART;VALUE=DATE:20241220
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Silo - 2x06 - Barricades
+UID:NzbDrone_episode_19277
 END:VEVENT
 END:VCALENDAR
