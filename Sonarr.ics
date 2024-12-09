@@ -9,7 +9,7 @@ DESCRIPTION:Following a tragedy\, young Tula worries about being accepted
  despite her family name\, while a skeptical Valya struggles with the deci
  sion to take the Sisterhood vow. Years later\, Valya receives a message t
  hat confirms her suspicions.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -17,36 +17,10 @@ SUMMARY:Dune: Prophecy - 1x03 - Sisterhood Above All
 UID:NzbDrone_episode_21010
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Showtime
-DESCRIPTION:Covert CIA agent Martian is called back to London Station. An 
- incident in Belarus puts Bosko and Henry on a collision course with Langl
- ey. Danny learns a lesson\, and someone unexpectedly reappears in Martian
- 's life.
-DTSTAMP:20241208T034008Z
-DTSTART;VALUE=DATE:20241202
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Agency (2024) - 1x01 - The Bends
-UID:NzbDrone_episode_21454
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Showtime
-DESCRIPTION:Dr. Blake arrives from Langley and is put to a test by Martian
-  and Henry. A spooked source threatens to put an operation at risk. Danny
- 's cover is put in play. Martian\, overtaken by events\, begins to questi
- on Sami's motives.
-DTSTAMP:20241208T034008Z
-DTSTART;VALUE=DATE:20241202
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Agency (2024) - 1x02 - Wooden Duck
-UID:NzbDrone_episode_21455
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:The vampires get blamed for a murder at a meeting of all the N
  ew York vampires and must find a way back to the safety of Staten Island.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,7 +29,7 @@ UID:NzbDrone_episode_19270
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -67,12 +41,25 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Juliette sets out on a dangerous quest to retrieve a suit so s
  he can return home and save her silo. Mechanical plans a meeting with Jud
  ge Meadows.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241206
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Silo - 2x04 - The Harmonium
 UID:NzbDrone_episode_19275
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Showtime
+DESCRIPTION:Henry questions Martian's thinking. Bosko is briefed by Langle
+ y on a top-secret operation. Poppy makes a startling discovery. Martian c
+ onfronts Sami about why she's in London and finds a needle in a haystack\
+ , before a heated session with Dr. Blake.
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241207
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Agency (2024) - 1x03 - Hawk From a Handsaw
+UID:NzbDrone_episode_21456
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
@@ -82,31 +69,18 @@ DESCRIPTION:After nearly all the acolytes have the same nightmare\, Tula a
  n to redeem House Harkonnen\, Ynez confronts her father about rumors surr
  ounding Desmond\, and Kieran conspires to advance a rebel attack that the
   Sisterhood must try to thwart.
-DTSTAMP:20241208T034008Z
-DTSTART;VALUE=DATE:20241209
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Dune: Prophecy - 1x04 - Twice Born
-UID:NzbDrone_episode_21095
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Showtime
-DESCRIPTION:Henry questions Martian's thinking. Bosko is briefed by Langle
- y on a top-secret operation. Poppy makes a startling discovery. Martian c
- onfronts Sami about why she's in London and finds a needle in a haystack\
- , before a heated session with Dr. Blake.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241209
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Agency (2024) - 1x03 - Hawk From a Handsaw
-UID:NzbDrone_episode_21456
+SUMMARY:Dune: Prophecy - 1x04 - Twice Born
+UID:NzbDrone_episode_21095
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:The vampires go to an office party to celebrate Guillermo's pr
  omotion.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -117,12 +91,24 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Sims finds himself with a new position. Juliette learns Solo i
  sn’t being honest. Bernard and Lukas make an important discovery.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241213
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Silo - 2x05 - Descent
 UID:NzbDrone_episode_19276
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Showtime
+DESCRIPTION:Henry and Martian wade into a diplomatic incident with the Bel
+ arusian delegation\; dropped into her mission by Naomi\, Danny walks a ti
+ ghtrope. Poppy and Martian attempt a fresh start. Osman threatens Sami.
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241214
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Agency (2024) - 1x04 - Quarterback Blitz
+UID:NzbDrone_episode_21457
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
@@ -131,7 +117,7 @@ DESCRIPTION:As Corrino names a new Bashar\, a Sister with deep connections
  oyal House. After receiving a tip\, Desmond goes on a warpath to root out
   the insurgents. Meanwhile\, Tula tries to keep her secret project from b
  eing discovered by the other Sisters.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -139,21 +125,9 @@ SUMMARY:Dune: Prophecy - 1x05 - In Blood\, Truth
 UID:NzbDrone_episode_21096
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Showtime
-DESCRIPTION:Henry and Martian wade into a diplomatic incident with the Bel
- arusian delegation\; dropped into her mission by Naomi\, Danny walks a ti
- ghtrope. Poppy and Martian attempt a fresh start. Osman threatens Sami.
-DTSTAMP:20241208T034008Z
-DTSTART;VALUE=DATE:20241216
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Agency (2024) - 1x04 - Quarterback Blitz
-UID:NzbDrone_episode_21457
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A surprising twist leads to a change of plans.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -162,7 +136,7 @@ UID:NzbDrone_episode_19272
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241220
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -170,12 +144,21 @@ SUMMARY:Silo - 2x06 - Barricades
 UID:NzbDrone_episode_19277
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Showtime
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241221
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Agency (2024) - 1x05 - TBA
+UID:NzbDrone_episode_21458
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:As Tula contends with the stunning reveal of Desmond’s true id
  entity\, the acolytes uncover a devastating long-held secret about the Si
  sterhood. Meanwhile\, Valya executes her plan for Ynez’s escape… which le
  ads to an epic confrontation with an increasingly powerful Desmond.
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -183,17 +166,62 @@ SUMMARY:Dune: Prophecy - 1x06 - The High-Handed Enemy
 UID:NzbDrone_episode_21097
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Showtime
-DTSTAMP:20241208T034008Z
-DTSTART;VALUE=DATE:20241223
+CATEGORIES:Netflix
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Agency (2024) - 1x05 - TBA
-UID:NzbDrone_episode_21458
+SUMMARY:Squid Game - 2x01 - Bread and Lottery
+UID:NzbDrone_episode_21487
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241226
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Squid Game - 2x02 - TBA
+UID:NzbDrone_episode_21488
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241226
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Squid Game - 2x03 - TBA
+UID:NzbDrone_episode_21489
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241226
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Squid Game - 2x04 - TBA
+UID:NzbDrone_episode_21490
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241226
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Squid Game - 2x05 - TBA
+UID:NzbDrone_episode_21491
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241226
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Squid Game - 2x06 - TBA
+UID:NzbDrone_episode_21492
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20241227
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -202,8 +230,8 @@ UID:NzbDrone_episode_19278
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
-DTSTAMP:20241208T034008Z
-DTSTART;VALUE=DATE:20241230
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20241228
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Agency (2024) - 1x06 - TBA
@@ -211,11 +239,20 @@ UID:NzbDrone_episode_21459
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241208T034008Z
+DTSTAMP:20241209T034009Z
 DTSTART;VALUE=DATE:20250103
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Silo - 2x08 - The Book of Quinn
 UID:NzbDrone_episode_19279
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Showtime
+DTSTAMP:20241209T034009Z
+DTSTART;VALUE=DATE:20250104
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Agency (2024) - 1x07 - TBA
+UID:NzbDrone_episode_21460
 END:VEVENT
 END:VCALENDAR
