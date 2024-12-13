@@ -4,20 +4,11 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Sky Uno
-DTSTAMP:20241212T034006Z
-DTSTART;VALUE=DATE:20241205
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:X Factor (IT) - 18x13 - Live 7 - Final
-UID:NzbDrone_episode_20929
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Juliette sets out on a dangerous quest to retrieve a suit so s
  he can return home and save her silo. Mechanical plans a meeting with Jud
  ge Meadows.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241206
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -29,7 +20,7 @@ CATEGORIES:HBO
 DESCRIPTION:As Tula attempts to understand the acolytes’ shared dream\, Va
  lya sets her plan in motion to redeem House Harkonnen ahead of the Landsr
  aad.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241209
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -42,7 +33,7 @@ DESCRIPTION:Henry questions Martian's thinking. Bosko is briefed by Langle
  y on a top-secret operation. Poppy makes a startling discovery. Martian c
  onfronts Sami about why she's in London and finds a needle in a haystack\
  , before a heated session with Dr. Blake.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241209
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,7 +44,7 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:The vampires go to an office party to celebrate Guillermo's pr
  omotion.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -64,7 +55,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:On the hunt for a dragon cult\, a band of adventurers rescues 
  a boy who’s haunted by a sinister force.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -75,7 +66,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:A young martial artist bent on revenge learns the true cost of
   his obsession.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -86,7 +77,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:A conquering king washes ashore on a mysterious island with no
   army and no clue. He may need an eternity to find his purpose.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -97,7 +88,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:After revolting against their corporate overlords\, a group of
   mining robots is condemned to fight for survival in deadly arena combat.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +100,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:In the grim darkness of the far future\, a genetically-enginee
  red warrior who has served on the front lines for centuries confronts his
   legacy\, as his squad hunts down a mutant sorcerer.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -121,7 +112,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:Trapped in a vast maze and pursued by ghosts\, a mysterious en
  tity summons a warrior to help it escape.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -133,7 +124,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:As a looming storm approaches\, two rival mercenary groups col
  lide. Driven by their vision of the greater good\, the sides face off\, t
  heir lives hanging in the balance.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -145,7 +136,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:In a frostbitten frontier world\, a legendary mech pilot learn
  s his latest mission might hold the key to the demons that have haunted h
  im for decades.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -156,10 +147,10 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Sims finds himself with a new position. Juliette learns Solo i
  sn’t being honest. Bernard and Lukas make an important discovery.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241213
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Silo - 2x05 - Descent
 UID:NzbDrone_episode_19276
 END:VEVENT
@@ -170,7 +161,7 @@ DESCRIPTION:As Corrino names a new Bashar\, a Sister with deep connections
  oyal House. After receiving a tip\, Desmond goes on a warpath to root out
   the insurgents. Meanwhile\, Tula tries to keep her secret project from b
  eing discovered by the other Sisters.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -182,7 +173,7 @@ CATEGORIES:Paramount+ with Showtime
 DESCRIPTION:Henry and Martian wade into a diplomatic incident with the Bel
  arusian delegation\; dropped into her mission by Naomi\, Danny walks a ti
  ghtrope. Poppy and Martian attempt a fresh start. Osman threatens Sami.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -192,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A surprising twist leads to a change of plans.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -204,7 +195,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Based on the hit role-playing game. An orphan from a galactic 
  backwater crosses the cosmos to take a job at a ruthless mega-corporation
   in the hopes of reuniting with the girl he loves.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -216,7 +207,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:An icon is born. As the corrupted creations of genius inventor
   Dr. Light rampage through Mega City\, the humblest of his inventions dre
  ams of fighting for everlasting peace.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -228,7 +219,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:A sci-fi saga based on the upcoming action-adventure role-play
  ing game. A mechanic traverses the galactic frontier\, racing against tim
  e in search of his runaway daughter.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -240,7 +231,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Based on the acclaimed roguelike games. A pair of explorers po
  nder their purpose in a subterranean world where everything wants to kill
   them. Repeatedly.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -253,7 +244,7 @@ DESCRIPTION:Based on the galaxy-spanning team-based shooter. Captain Cassi
  dy’s crew of Freegunners is about to pull off the biggest heist of their 
  lives – now there’s only a deadly armada and a cosmos-sundering space sto
  rm between them and freedom.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -265,7 +256,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:From the lore of the global smash multiplayer online battle ar
  ena. An orphaned prodigy challenges the all-knowing artificial intelligen
  ce that rules his city.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -277,7 +268,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Not linked to any one franchise\, this episode focuses on a ra
  nge of PlayStation characters tracking down a valuable item in a virtual 
  world.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -286,7 +277,7 @@ UID:NzbDrone_episode_21514
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241220
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -299,7 +290,7 @@ DESCRIPTION:As Tula contends with the stunning reveal of Desmond’s true id
  entity\, the acolytes uncover a devastating long-held secret about the Si
  sterhood. Meanwhile\, Valya executes her plan for Ynez’s escape… which le
  ads to an epic confrontation with an increasingly powerful Desmond.
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -308,7 +299,7 @@ UID:NzbDrone_episode_21097
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -317,7 +308,7 @@ UID:NzbDrone_episode_21458
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -326,7 +317,7 @@ UID:NzbDrone_episode_21487
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -335,7 +326,7 @@ UID:NzbDrone_episode_21488
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -344,7 +335,7 @@ UID:NzbDrone_episode_21489
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -353,7 +344,7 @@ UID:NzbDrone_episode_21490
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -362,7 +353,7 @@ UID:NzbDrone_episode_21491
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -371,7 +362,7 @@ UID:NzbDrone_episode_21492
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241227
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -380,7 +371,7 @@ UID:NzbDrone_episode_19278
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20241230
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -389,7 +380,7 @@ UID:NzbDrone_episode_21459
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20250103
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -398,7 +389,7 @@ UID:NzbDrone_episode_19279
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTSTAMP:20241212T034006Z
+DTSTAMP:20241213T034007Z
 DTSTART;VALUE=DATE:20250106
 SEQUENCE:0
 STATUS:TENTATIVE
