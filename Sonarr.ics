@@ -4,22 +4,11 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:Sims finds himself with a new position. Juliette learns Solo i
- sn’t being honest. Bernard and Lukas make an important discovery.
-DTSTAMP:20241220T034008Z
-DTSTART;VALUE=DATE:20241213
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Silo - 2x05 - Descent
-UID:NzbDrone_episode_19276
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:While Tula tries to keep her secret project from being discove
  red by the other Sisters\, Desmond goes on a warpath to root out insurgen
  ts.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -31,7 +20,7 @@ CATEGORIES:Paramount+ with Showtime
 DESCRIPTION:Henry and Martian wade into a diplomatic incident with the Bel
  arusian delegation\; dropped into her mission by Naomi\, Danny walks a ti
  ghtrope. Poppy and Martian attempt a fresh start. Osman threatens Sami.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A surprising twist leads to a change of plans.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,7 +42,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:An orphan from a galactic backwater crosses the cosmos to take
   a job at a ruthless mega-corporation in the hopes of reuniting with the 
  girl he loves.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -65,7 +54,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:As the corrupted creations of genius inventor Dr. Light rampag
  e through Mega City\, the humblest of his inventions dreams of fighting f
  or everlasting peace.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -76,7 +65,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:A mechanic traverses the galactic frontier\, racing against ti
  me in search of his runaway daughter.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,7 +76,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:A pair of explorers ponder their purpose in a subterranean wor
  ld where everything wants to kill them. Repeatedly.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -99,7 +88,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Captain Cassidy’s crew of Freegunners is about to pull off the
   biggest heist of their lives - now there’s only a deadly armada and a co
  smos-sundering space storm between them and freedom.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -110,7 +99,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:An orphaned prodigy challenges the all-knowing artificial inte
  lligence that rules his city.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -123,7 +112,7 @@ DESCRIPTION:Courier O is stuck in the endless drudgery of a point-chasing
  grind\, but when a mysterious figure entrusts her with a strange package\
  , O discovers that powerful people are determined to get their hands on i
  t.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +124,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Bernard enacts a plan to root out Knox\, Shirley\, and Walker.
   Billings takes a stand. Solo saves Juliette’s life and wants something i
  n return.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241220
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -148,7 +137,7 @@ DESCRIPTION:As Tula contends with the stunning reveal of Desmond’s true id
  entity\, the acolytes uncover a devastating long-held secret about the Si
  sterhood. Meanwhile\, Valya executes her plan for Ynez’s escape… which le
  ads to an epic confrontation with an increasingly powerful Desmond.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -161,16 +150,16 @@ DESCRIPTION:Feeling the heat from Langley\, Henry sends Owen to hunt for c
  lues in Minsk\; Danny's work with Reza generates an unexpected outcome\; 
  Sami is approached by Mr. Dalaga about a sensitive issue\; Martian\, seei
  ng the size of the stakes\, sets a rat trap.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241223
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Agency (2024) - 1x05 - Rat Trap
 UID:NzbDrone_episode_21458
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -179,7 +168,7 @@ UID:NzbDrone_episode_21487
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -188,7 +177,7 @@ UID:NzbDrone_episode_21488
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +186,7 @@ UID:NzbDrone_episode_21489
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -206,7 +195,7 @@ UID:NzbDrone_episode_21490
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +204,7 @@ UID:NzbDrone_episode_21491
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -224,7 +213,9 @@ UID:NzbDrone_episode_21492
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241220T034008Z
+DESCRIPTION:Lukas is assigned a mission. Mechanical sends a powerful messa
+ ge. Juliette embarks on a perilous descent—and confronts a new danger.
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241227
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -237,7 +228,7 @@ DESCRIPTION:Richardson's arrival at the Fishbowl catches Henry off guard\;
   Martian scrambles to unravel Cossack's game as the stakes escalate\; Nao
  mi\, uncovering a secret\, cautions Danny\; Sami's attempts to reach Mart
  ian lead to naught and Osman plays his hand.
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20241230
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -246,7 +237,7 @@ UID:NzbDrone_episode_21459
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20250103
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -255,7 +246,7 @@ UID:NzbDrone_episode_19279
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20250106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -264,7 +255,7 @@ UID:NzbDrone_episode_21460
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20250110
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -273,11 +264,29 @@ UID:NzbDrone_episode_19280
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTSTAMP:20241220T034008Z
+DTSTAMP:20241221T034008Z
 DTSTART;VALUE=DATE:20250113
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Agency (2024) - 1x08 - TBA
 UID:NzbDrone_episode_21461
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20241221T034008Z
+DTSTART;VALUE=DATE:20250117
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Severance - 2x01 - Ovaltine
+UID:NzbDrone_episode_18652
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20241221T034008Z
+DTSTART;VALUE=DATE:20250117
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Silo - 2x10 - Episode 10
+UID:NzbDrone_episode_19281
 END:VEVENT
 END:VCALENDAR
