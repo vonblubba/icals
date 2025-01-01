@@ -8,7 +8,7 @@ CATEGORIES:Netflix
 DESCRIPTION:A vengeful Gi-hun makes a U-turn at the airport. Later\, in hi
  s hideout\, he intensifies his search for the elusive recruiter who is se
  eking new players.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Gi-hun finally gets hold of an invitation\, marked for Hallowe
  en day. In a tense moment facing Jun-ho\, they reveal their truths to eac
  h other.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ CATEGORIES:Netflix
 DESCRIPTION:New players gather for a chance to win 45.6 billion won. After
   an intense first round\, the survivors' fates hang in the balance — down
   to one final vote.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,7 +44,7 @@ CATEGORIES:Netflix
 DESCRIPTION:The players prepare for the next game: a six-legged pentathlon
  \, where each team member must clear a mini-game to survive — or face col
  lective elimination.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -56,7 +56,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Kang No-eul earns enemies for her unruly actions. Nerves fray 
  to the breaking point as the remaining players vote on whether to move to
   the next round.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -68,7 +68,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Jun-ho and his team prepare to infiltrate a suspicious island.
   As monetary stakes and tensions rise\, players split into two opposing f
  actions.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -80,7 +80,7 @@ CATEGORIES:Netflix
 DESCRIPTION:The remaining players strategize on how to survive the night. 
  Gi-hun proposes a risky plan — but he will need trustworthy allies to car
  ry it out.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Lukas is assigned a mission. Mechanical sends a powerful messa
  ge. Juliette embarks on a perilous descent—and confronts a new danger.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20241227
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Juliette discovers something’s happened to Solo. Bernard makes
   an offer to Walker. Lukas meets with Salvador Quinn’s descendants.
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20250103
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -111,7 +111,7 @@ UID:NzbDrone_episode_19279
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20250110
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -120,7 +120,7 @@ UID:NzbDrone_episode_19280
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20250117
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -129,7 +129,7 @@ UID:NzbDrone_episode_18652
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20250117
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -138,7 +138,7 @@ UID:NzbDrone_episode_19281
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20241231T034007Z
+DTSTAMP:20250101T034007Z
 DTSTART;VALUE=DATE:20250124
 SEQUENCE:0
 STATUS:TENTATIVE
