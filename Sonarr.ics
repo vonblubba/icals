@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Mark returns to work under different circumstances. Secrets fr
  om the Outie world come to light.
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:The rebels make their move—and so does Juliette.
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -25,34 +25,10 @@ SUMMARY:Silo - 2x10 - Into the Fire
 UID:NzbDrone_episode_19281
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (IT)
-DESCRIPTION:With his entry into Parliament\, Mussolini wants to change: to
-  be more strategic\, diplomatic\, a true statesman. But the Black Shirts 
- rebel.
-DTSTAMP:20250121T034007Z
-DTSTART;VALUE=DATE:20250117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:M - Son of the Century - 1x03 - Episode 3
-UID:NzbDrone_episode_21722
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (IT)
-DESCRIPTION:Following strikes and protests\, the King excludes the sociali
- sts from the government. Mussolini threatens a fascist insurrection\, in 
- an attempt to take everything.
-DTSTAMP:20250121T034007Z
-DTSTART;VALUE=DATE:20250117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:M - Son of the Century - 1x04 - Episode 4
-UID:NzbDrone_episode_21723
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Outie Mark contemplates the meaning of a message. Lumon grappl
  es with the fallout of the Overtime Contingency.
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250124
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -60,31 +36,8 @@ SUMMARY:Severance - 2x02 - Goodbye\, Mrs. Selvig
 UID:NzbDrone_episode_18728
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (IT)
-DESCRIPTION:Mussolini wants a new electoral law that will guarantee him an
-  absolute majority. But Don Sturzo\, the leader of the Catholics\, oppose
- s it.
-DTSTAMP:20250121T034007Z
-DTSTART;VALUE=DATE:20250124
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:M - Son of the Century - 1x05 - Episode 5
-UID:NzbDrone_episode_21724
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (IT)
-DESCRIPTION:Mussolini opens the party lists to turncoat politicians from o
- ther parties. An early fascist leader\, Forni\, takes sides against him.
-DTSTAMP:20250121T034007Z
-DTSTART;VALUE=DATE:20250124
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:M - Son of the Century - 1x06 - Episode 6
-UID:NzbDrone_episode_21725
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250131
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -92,32 +45,8 @@ SUMMARY:Severance - 2x03 - Who Is Alive?
 UID:NzbDrone_episode_18729
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (IT)
-DESCRIPTION:Mussolini wins the elections by a landslide\, but Matteotti\, 
- a socialist\, asks for their annulment\, denouncing the violence of the b
- lack shirts. Mussolini decides to teach him a lesson.
-DTSTAMP:20250121T034007Z
-DTSTART;VALUE=DATE:20250131
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:M - Son of the Century - 1x07 - Episode 7
-UID:NzbDrone_episode_21726
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (IT)
-DESCRIPTION:With the discovery of Matteotti's body and the arrest of his a
- ssassins\, Mussolini is cornered. Will he be able to save himself and fas
- cism?
-DTSTAMP:20250121T034007Z
-DTSTART;VALUE=DATE:20250131
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:M - Son of the Century - 1x08 - Episode 8
-UID:NzbDrone_episode_21727
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250207
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -126,7 +55,7 @@ UID:NzbDrone_episode_18730
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250214
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -135,7 +64,7 @@ UID:NzbDrone_episode_18731
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250121T034007Z
+DTSTAMP:20250122T034007Z
 DTSTART;VALUE=DATE:20250217
 SEQUENCE:0
 STATUS:TENTATIVE
