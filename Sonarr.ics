@@ -4,22 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:After being investigated\, Coop sets off on a college tour wit
- h Mel and their kids while Elena attempts to get ahold of him.
-DTSTAMP:20250516T024007Z
-DTSTART;VALUE=DATE:20250509
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Your Friends & Neighbors - 1x06 - The Things You Lost Along the Way
-UID:NzbDrone_episode_22814
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:The WLF makes a dangerous discovery... at a great cost. Later\
  , Ellie must decide whether to continue with her plan – and risk putting 
  Dina in danger – or give up on her quest for justice.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250512
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -30,7 +19,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Lonni Jung taps out. Dedra closes in. Luthen scrambles. Kleya 
  delivers.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250514
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -40,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Cassian returns to Coruscant for one last extraction.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250514
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +40,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Cassian returns to Yavin with intel that will change everythin
  g.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250514
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -62,10 +51,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:Turn up your stereo and tune into a Red Hot Chili Peppers conc
  ert that's unlike any other — with a few strings attached.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x01 - Can't Stop
 UID:NzbDrone_episode_22518
 END:VEVENT
@@ -74,10 +63,10 @@ CATEGORIES:Netflix
 DESCRIPTION:They came in peace. But when their first encounter with Earthl
  ings goes awry\, these extra-tiny extraterrestrials are ready for vengean
  ce.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x02 - Close Encounters of the Mini Kind
 UID:NzbDrone_episode_22519
 END:VEVENT
@@ -86,10 +75,10 @@ CATEGORIES:Netflix
 DESCRIPTION:At the edge of the galaxy\, a grieving woman dreams of revenge
  . Can an adorable newcomer help her destroy her enemies — without destroy
  ing her humanity?
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x03 - Spider Rose
 UID:NzbDrone_episode_22520
 END:VEVENT
@@ -98,10 +87,10 @@ CATEGORIES:Netflix
 DESCRIPTION:Are they gods? Are they giants? All this band of survivors kno
  ws is that they're deadly — and they'll have to set aside their own turf 
  war to stop them.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x04 - 400 Boys
 UID:NzbDrone_episode_22521
 END:VEVENT
@@ -109,10 +98,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:This furry revolutionary has plans for world domination. All h
  e needs is a henchman with opposable thumbs.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x05 - The Other Large Thing
 UID:NzbDrone_episode_22522
 END:VEVENT
@@ -120,10 +109,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:A mysterious race of aquatic aliens has arrived on Earth. They
   don't want to be taken to our leaders.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x06 - Golgotha
 UID:NzbDrone_episode_22523
 END:VEVENT
@@ -131,10 +120,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:In an orbital arena\, gladiators and dinosaurs compete in a de
  adly race — and face a terrifying new opponent.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x07 - The Screaming of the Tyrannosaur
 UID:NzbDrone_episode_22524
 END:VEVENT
@@ -142,10 +131,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:On a perilous mission into hostile territory\, the crew of a W
  orld War II bomber encounters an unholy enemy.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x08 - How Zeke Got Religion
 UID:NzbDrone_episode_22525
 END:VEVENT
@@ -153,10 +142,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:From thermostats to toothbrushes to toilets\, these ultra-mode
  rn appliances have something to say about their hapless owners.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x09 - Smart Appliances\, Stupid Owners
 UID:NzbDrone_episode_22526
 END:VEVENT
@@ -164,27 +153,18 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:London\, 1757. Satan battles a cat for the soul of a poet whos
  e verse could give him dominion over the earth.
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250515
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Love\, Death & Robots - 4x10 - For He Can Creep
 UID:NzbDrone_episode_22527
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DESCRIPTION:Detective Lin makes a discovery at the crime scene. Coop plays
-  hardball with Kat. Chivo puts Elena in a tough spot.
-DTSTAMP:20250516T024007Z
-DTSTART;VALUE=DATE:20250516
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Your Friends & Neighbors - 1x07 - The First Honest Thing
-UID:NzbDrone_episode_22815
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
+DESCRIPTION:On a fresh assignment\, Murderbot’s newfound free will leads t
+ o odd behavior\, sparking suspicion from the PreservationAux team.
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250516
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +173,9 @@ UID:NzbDrone_episode_21939
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
+DESCRIPTION:Mensah and Bharadwaj risk everything to investigate a mysterio
+ us region. Gurathin goes toe-to-toe with Murderbot.
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250516
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -202,7 +184,7 @@ UID:NzbDrone_episode_21940
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250519
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -211,16 +193,9 @@ UID:NzbDrone_episode_21893
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
-DTSTART;VALUE=DATE:20250523
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Your Friends & Neighbors - 1x08 - TBA
-UID:NzbDrone_episode_22816
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
+DESCRIPTION:The PresAux team heads to a new base to search for answers. Mu
+ rderbot gets tangled up in a SecUnit showdown.
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250523
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -229,7 +204,7 @@ UID:NzbDrone_episode_21941
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250526
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -238,16 +213,7 @@ UID:NzbDrone_episode_21894
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
-DTSTART;VALUE=DATE:20250530
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Your Friends & Neighbors - 1x09 - TBA
-UID:NzbDrone_episode_22817
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250530
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -256,11 +222,20 @@ UID:NzbDrone_episode_21942
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250516T024007Z
+DTSTAMP:20250517T024008Z
 DTSTART;VALUE=DATE:20250606
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Murderbot - 1x05 - Rogue War Tracker Infinite
 UID:NzbDrone_episode_21943
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20250517T024008Z
+DTSTART;VALUE=DATE:20250613
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Murderbot - 1x06 - Command Feed
+UID:NzbDrone_episode_21944
 END:VEVENT
 END:VCALENDAR
