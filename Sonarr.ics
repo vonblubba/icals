@@ -4,25 +4,39 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:Joel surprises Ellie for her birthday. Years later\, Ellie pre
- pares to confront Joel about her past.
-DTSTAMP:20250526T024007Z
-DTSTART;VALUE=DATE:20250519
+DESCRIPTION:We shine a light on indie development in horror gaming\, from 
+ breakout hits like Five Nights at Freddy’s and Amnesia to the many unique
+  and one-of-a-kind experiences like Iron Lung\, Lost in Vivo\, and FAITH:
+  The Unholy Trinity.
+DTSTAMP:20250527T024008Z
+DTSTART;VALUE=DATE:20250521
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Last of Us - 2x06 - The Price
-UID:NzbDrone_episode_21893
+SUMMARY:TerrorBytes - 1x04 - The Indie Revolution
+UID:NzbDrone_episode_22529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In our final episode we dive down the rabbit hole of controver
+ sy and explore the games - like Doom\, Manhunt\, and Rule of Rose - that 
+ people wanted banned. Along the way\, we’ll also take a look at the unusu
+ al world of “cursed” games\, including urban legends and creepypastas lik
+ e Polybius and Ben Drowned.
+DTSTAMP:20250527T024008Z
+DTSTART;VALUE=DATE:20250521
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TerrorBytes - 1x05 - Cursed and Controversial
+UID:NzbDrone_episode_22530
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:Furious that her sister Simone won't return her calls\, Devon 
  heads to an island enclave to find her — and into the clutches of her con
  trolling boss.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Sirens (2025) - 1x01 - Exile
 UID:NzbDrone_episode_22840
 END:VEVENT
@@ -31,10 +45,10 @@ CATEGORIES:Netflix
 DESCRIPTION:Stymied by Michaela\, Devon makes a bold move to remain in Sim
  one's orbit. Simone and Michaela's bond is tested as secrets begin to sur
  face.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Sirens (2025) - 1x02 - Talons
 UID:NzbDrone_episode_22841
 END:VEVENT
@@ -42,10 +56,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:Devon gains deeper insight into Michaela's unique magnetism. W
  ith Ethan out of reach\, Simone finds herself on Peter's trail instead.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Sirens (2025) - 1x03 - Monster
 UID:NzbDrone_episode_22842
 END:VEVENT
@@ -53,10 +67,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:The chaos Devon left behind in Buffalo catches up with her. Si
  mone must decide her own future. Michaela investigates Peter's phone.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Sirens (2025) - 1x04 - Persephone
 UID:NzbDrone_episode_22843
 END:VEVENT
@@ -64,10 +78,10 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:As the gala kicks off\, the conflict between Michaela and Simo
  ne comes to a head. Peter has a realization. Devon considers her options.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Sirens (2025) - 1x05 - Siren Song
 UID:NzbDrone_episode_22844
 END:VEVENT
@@ -75,7 +89,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:The PresAux team heads to a new base to search for answers. Mu
  rderbot gets tangled up in a SecUnit showdown.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250523
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,20 +97,11 @@ SUMMARY:Murderbot - 1x03 - Risk Assessment
 UID:NzbDrone_episode_21941
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:HBO
-DTSTAMP:20250526T024007Z
-DTSTART;VALUE=DATE:20250526
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Last of Us - 2x07 - Convergence
-UID:NzbDrone_episode_21894
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:As an enemy takes aim at Murderbot\, an ally tries to orchestr
  ate a getaway. The team grapples with a leadership shake-up and a shockin
  g ultimatum.
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250530
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -105,7 +110,7 @@ UID:NzbDrone_episode_21942
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250606
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -114,7 +119,7 @@ UID:NzbDrone_episode_21943
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250613
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -123,7 +128,7 @@ UID:NzbDrone_episode_21944
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250526T024007Z
+DTSTAMP:20250527T024008Z
 DTSTART;VALUE=DATE:20250620
 SEQUENCE:0
 STATUS:TENTATIVE
