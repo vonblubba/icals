@@ -4,20 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Sky Uno
-DTSTAMP:20250925T024007Z
-DTSTART;VALUE=DATE:20250918
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:X Factor (IT) - 19x02 - Auditions 2
-UID:NzbDrone_episode_21465
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:Amid global turmoil\, just-out-of-prison Max joins his parents
   in a luxury bunker. There\, an unexpected encounter confronts him with h
  is darkest past.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -29,7 +20,7 @@ CATEGORIES:Netflix
 DESCRIPTION:As the team celebrates their success\, not everyone feels comf
  ortable with how the events unfolded. Rafa reels from Frida's revelations
  .
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -42,7 +33,7 @@ CATEGORIES:Netflix
 DESCRIPTION:A shocked Minerva faces a skeptical team in need of answers. C
  onflicted by the videos of Max\, Asia makes a rash decision but later reg
  rets it.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -54,7 +45,7 @@ CATEGORIES:Netflix
 DESCRIPTION:In a medical crisis\, Asia is the only one who can help. Victo
  ria welcomes a distraction as she sends out mayday signals. A call grows 
  in urgency.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -66,7 +57,7 @@ CATEGORIES:Netflix
 DESCRIPTION:With pressure mounting\, Minerva takes a major gamble before a
  ssigning a high-stakes mission. Unable to find Guillermo\, Mimi turns to 
  Frida and Victoria.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -78,7 +69,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Asia comes to grips with her true feelings. Max confronts Mine
  rva as she prepares to implement phase three in the bunker. Mimi shows tr
  oubling symptoms.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -90,7 +81,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Under false pretenses\, Max unveils his plan. Rafa reveals the
   real reason behind his past actions while Guillermo prioritizes family a
  nd friendship.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -101,7 +92,7 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:Frida doesn't hold back as she delivers some painful truths. A
  s a perfectly curated night unfolds\, Max and Asia kick into action.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250919
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -114,7 +105,7 @@ DESCRIPTION:John Oliver discusses ABC's move to pull Jimmy Kimmel off the
  air\, what it has to do with Brendan Carr and the FCC\, and what it means
   for free speech in the United States\, plus some pertinent information a
  bout one very depressed loaf of bread.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -125,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A new power dynamic emerges.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -137,7 +128,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:A mass shooting rocks London\, intensifying a testy mayoral ra
  ce. Shirley believes one of the Slow Horses was the target of an attempte
  d hit.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -146,15 +137,9 @@ UID:NzbDrone_episode_22861
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ITV1
-DESCRIPTION:Investigative journalist Nick Davies receives an anonymous tip
-  off about phone hacking at the News of the World. As he follows the trai
- l\,\nhe discovers damning evidence that proves that phone hacking at the 
- paper was not the work of ‘one rogue reporter’\, as has been claimed\nfor
-  years but was\, in fact\, endemic. Nick and his long-time editor and fri
- end Alan Rusbridger must now decide to risk their careers and\ntheir news
- paper to go up against one of the most powerful media organisations in th
- e world.
-DTSTAMP:20250925T024007Z
+DESCRIPTION:Following a tip-off\, journalist Nick Davies investigates repo
+ rts of endemic phone hacking at Rupert Murdoch's News of the World.
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,16 +150,16 @@ BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DESCRIPTION:Kyle and Cartman are at odds when a prediction markets app get
  s popular with their fellow students.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:South Park - 27x05 - Conflict of Interest
 UID:NzbDrone_episode_23417
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -183,7 +168,7 @@ UID:NzbDrone_episode_21466
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20250929
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -194,7 +179,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Lamb intercepts an assassin. Taverner receives a key piece of 
  intel about the Abbotsfield shooting.
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -203,18 +188,10 @@ UID:NzbDrone_episode_22862
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ITV1
-DESCRIPTION:In 2002\, DCS Dave Cook\, is assigned to investigate the unsol
- ved murder of private detective Daniel Morgan – the most investigated\nho
- micide in the history of the Met. As he’s drawn deeper into the case\, Da
- ve finds himself under surveillance by The News of the World\nand learns 
- they are business associates of some of those suspected to be involved wi
- th the murder. The investigation and the resulting\npressure awakens rece
- nt traumas and puts pressure on his home life and marriage. With his priv
- ate and work life now under pressure\,\nDave begins to pursue the case ru
- thlessly and attempts to turn the tables on the suspects. As the investig
- ation runs into set-backs\, Dave\ntakes up matters with the News of the W
- orld’s powerful editor\, Rebekah Wade.
-DTSTAMP:20250925T024007Z
+DESCRIPTION:2002: DCS Dave Cook takes on the most-investigated unsolved mu
+ rder in the Metropolitan Police's history and uncovers worrying links to 
+ Fleet Street.
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -223,7 +200,7 @@ UID:NzbDrone_episode_24539
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251002
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -232,7 +209,7 @@ UID:NzbDrone_episode_21467
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251006
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -241,7 +218,7 @@ UID:NzbDrone_episode_24322
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -250,16 +227,10 @@ UID:NzbDrone_episode_22863
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ITV1
-DESCRIPTION:With the story now in the open\, News International fight back
-  and threaten Nick and Alan with a smear story. As Nick leaps to his edit
- or’s\ndefence\, a new clue surfaces that could further prove phone hackin
- g by senior Murdoch editors. He teams up with lawyer Charlotte Harris\nto
-  persuade her clients to take legal action that could get more evidence d
- isclosed in court. Meanwhile\, Nick reaches out to his old friend\,\nDCS 
- David Cook\, and attempts to secure further disclosures from the Metropol
- itan Police. As he does\, he uncovers the cosy relationship\nbetween the 
- tabloid press and Scotland Yard.
-DTSTAMP:20250925T024007Z
+DESCRIPTION:Nick fights to protect his editor and his newspaper from a Fle
+ et Street backlash as he forms new alliances and comes into conflict with
+  Scotland Yard.
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -268,7 +239,7 @@ UID:NzbDrone_episode_24540
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251009
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -277,7 +248,7 @@ UID:NzbDrone_episode_21468
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -286,7 +257,7 @@ UID:NzbDrone_episode_24323
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -295,17 +266,10 @@ UID:NzbDrone_episode_22864
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ITV1
-DESCRIPTION:DCS Dave Cook is dragged back into another re-investigation of
-  Daniel Morgan’s murder\, after new intelligence comes to light. The re-\
- ninvestigation forces Dave to work with an unlikely ally from within the 
- tabloids\, The Sun journalist Mike Sullivan\, whose articles bring\nforwa
- rd another new lead: a career criminal named Gary Eaton who claims to kno
- w who planned the murder. But as the caseload\nincreases and the challeng
- es of handling the unstable Eaton mount\, Dave’s marriage becomes straine
- d\, his health suffers\, and he believes\nhe might once again be under su
- rveillance. Under such extreme pressure\, Dave pushes further to get the 
- case across the line.
-DTSTAMP:20250925T024007Z
+DESCRIPTION:DCS Dave Cook is forced to work with an unlikely ally when he 
+ is drawn back into the Daniel Morgan investigation after a new witness co
+ mes forward.
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -314,7 +278,7 @@ UID:NzbDrone_episode_24541
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -323,7 +287,7 @@ UID:NzbDrone_episode_23418
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -332,7 +296,7 @@ UID:NzbDrone_episode_22892
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -341,7 +305,7 @@ UID:NzbDrone_episode_22893
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -350,7 +314,7 @@ UID:NzbDrone_episode_22894
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -359,7 +323,7 @@ UID:NzbDrone_episode_22895
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -368,7 +332,7 @@ UID:NzbDrone_episode_22896
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -377,7 +341,7 @@ UID:NzbDrone_episode_22897
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -386,7 +350,7 @@ UID:NzbDrone_episode_24328
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -395,7 +359,7 @@ UID:NzbDrone_episode_24329
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -404,7 +368,7 @@ UID:NzbDrone_episode_21469
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251020
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -413,7 +377,7 @@ UID:NzbDrone_episode_24324
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20250925T024007Z
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -422,19 +386,23 @@ UID:NzbDrone_episode_22865
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ITV1
-DESCRIPTION:With Andy Coulson now in Downing Street\, Nick and Alan team u
- p with the New York Times in an effort to make the hacking scandal catch\
- nfire. As new leads are uncovered\, Nick and Charlotte work together to f
- ind hacking victims who might be brave enough to take on the\nMurdoch pre
- ss. Meanwhile\, Dave is challenged in the witness box at the Morgan murde
- r trial over his handling of supergrass witnesses.\nWith the case at risk
- \, Dave takes new measures to help Nick in his quest to expose wrongdoing
-  at the News of the World.
-DTSTAMP:20250925T024007Z
+DESCRIPTION:Nick teams up with the New York Times as Andy Coulson lands in
+  Downing Street\, and Dave Cook is challenged in court over the Morgan in
+ vestigation.
+DTSTAMP:20250926T024007Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Hack - 1x05 - Episode 5
 UID:NzbDrone_episode_24542
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Uno
+DTSTAMP:20250926T024007Z
+DTSTART;VALUE=DATE:20251023
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:X Factor (IT) - 19x07 - Live 1
+UID:NzbDrone_episode_21470
 END:VEVENT
 END:VCALENDAR
