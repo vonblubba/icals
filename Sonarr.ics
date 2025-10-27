@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Lamb debriefs River and Coe. Roddy is pulled in to help deciph
  er a piece of code as the destabilization strategy nears its final stage.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -19,7 +19,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Psychiatrist Dr Joel Lazarus returns to his hometown after the
   apparent suicide of his father Dr L. But he soon begins to see things th
  at he can’t explain.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -31,7 +31,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:After learning his father was murdered\, Laz’s investigation l
  eads him to make a shocking discovery at a twenty-five year old murder sc
  ene.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,7 +43,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:As the visions shed light on more victims\, Laz connects the h
  istoric murder of his sister Sutton\, the suspicious death of his father\
  , and many other murders back to one suspect.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,7 +55,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Laz spirals after a bombshell from his sister Jenna. Another v
  ision causes Laz to believe the murderer has struck again\; but a frantic
   search for the victim ends in more violence.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -67,7 +67,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Laz and Jenna make a shocking discovery that refocuses Laz on 
  a different suspect for Sutton’s murder. Someone close to Laz comes under
   threat and a manhunt ensues.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -79,7 +79,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:After visiting an old patient\, Laz realises the common denomi
  nator in all the murder cases. A deadly chase brings out figures from Laz
  ’s past for a final reckoning.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,8 +87,55 @@ SUMMARY:Harlan Coben's Lazarus - 1x06 - Episode 6
 UID:NzbDrone_episode_24594
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:When The Monster of Florence strikes again in 1982 and kills a
+ nother young couple\, police turn to a 1968 homicide that also occurred i
+ n a car at night.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Monster of Florence - 1x01 - Episode 1
+UID:NzbDrone_episode_24595
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:With police hunting for clues\, a suspect goes into hiding as 
+ the true nature of a tumultuous love affair from the past comes to light.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Monster of Florence - 1x02 - Episode 2
+UID:NzbDrone_episode_24596
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:The Monster continues to terrorize couples. A chilling night o
+ ut points suspicion toward a different man with disturbing belongings and
+  a lack of alibi.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Monster of Florence - 1x03 - Episode 3
+UID:NzbDrone_episode_24597
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Police take the only eyewitness back to the scene of the first
+  murder. In 1958\, societal conventions push someone into an unhappy unio
+ n.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Monster of Florence - 1x04 - Episode 4
+UID:NzbDrone_episode_24598
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -101,27 +148,31 @@ DESCRIPTION:Guy is recruited to join a top-secret spy organisation for the
   supernatural world. He must choose between his old life in the ordinary 
  world and a new life as an undercover spy. Helen deals with trouble at th
  e New York Mother House.
-DTSTAMP:20251026T034011Z
-DTSTART;VALUE=DATE:20251026
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251027
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Anne Rice's Talamasca: The Secret Order - 1x01 - We Watch. And We 
  Are Always There.
 UID:NzbDrone_episode_24532
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:AMC
-DTSTAMP:20251026T034011Z
-DTSTART;VALUE=DATE:20251026
+DESCRIPTION:Guy begins training with Helen in London on his first mission 
+ to follow a mysterious hitman\, a role he is sent to complete while in Lo
+ ndon with the hope of finding answers to his family's involvement in the 
+ supernatural world.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251027
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Anne Rice's Talamasca: The Secret Order - 1x02 - A Wilderness of M
  irrors
 UID:NzbDrone_episode_24533
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -132,7 +183,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:It’s up to the Slow Horses to stop Farouk’s team from completi
  ng its mission in a final act of mass carnage.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -142,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -151,7 +202,7 @@ UID:NzbDrone_episode_23047
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251030
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,7 +211,7 @@ UID:NzbDrone_episode_24574
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251030
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -169,8 +220,11 @@ UID:NzbDrone_episode_21471
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:AMC
-DTSTAMP:20251026T034011Z
-DTSTART;VALUE=DATE:20251102
+DESCRIPTION:Guy is searching for answers about his family while he uncover
+ s more about the Talamasca's secrets and its involvement in the supernatu
+ ral world.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251103
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Anne Rice's Talamasca: The Secret Order - 1x03 - The Task at Hand
@@ -179,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -188,7 +242,7 @@ UID:NzbDrone_episode_23048
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +251,7 @@ UID:NzbDrone_episode_21472
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251107
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -206,7 +260,7 @@ UID:NzbDrone_episode_23827
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251107
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,8 +269,11 @@ UID:NzbDrone_episode_23828
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:AMC
-DTSTAMP:20251026T034011Z
-DTSTART;VALUE=DATE:20251109
+DESCRIPTION:Guy's search for his family's hidden past leads him down a dan
+ gerous path\, forcing him to confront the reality of the supernatural wor
+ ld he is now a part of.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Anne Rice's Talamasca: The Secret Order - 1x04 - Wet Work
@@ -225,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -234,7 +291,7 @@ UID:NzbDrone_episode_23049
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -243,7 +300,7 @@ UID:NzbDrone_episode_24575
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -252,7 +309,7 @@ UID:NzbDrone_episode_21473
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251114
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -261,8 +318,11 @@ UID:NzbDrone_episode_23829
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:AMC
-DTSTAMP:20251026T034011Z
-DTSTART;VALUE=DATE:20251116
+DESCRIPTION:The secrets of the Talamasca come to light as Guy uncovers a c
+ onspiracy that could affect the balance between the mortal and supernatur
+ al worlds.
+DTSTAMP:20251027T034009Z
+DTSTART;VALUE=DATE:20251117
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Anne Rice's Talamasca: The Secret Order - 1x05 - The Puzzle Palace
@@ -271,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:.
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251119
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -280,7 +340,7 @@ UID:NzbDrone_episode_23050
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -289,7 +349,7 @@ UID:NzbDrone_episode_21474
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251026T034011Z
+DTSTAMP:20251027T034009Z
 DTSTART;VALUE=DATE:20251121
 SEQUENCE:0
 STATUS:TENTATIVE
