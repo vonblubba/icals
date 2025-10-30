@@ -4,23 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:Lamb debriefs River and Coe. Roddy is pulled in to help deciph
- er a piece of code as the destabilization strategy nears its final stage.
-DTSTAMP:20251029T034008Z
-DTSTART;VALUE=DATE:20251022
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Slow Horses - 5x05 - Circus
-UID:NzbDrone_episode_22865
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:AMC
 DESCRIPTION:Guy is recruited to join a top-secret spy organisation for the
   supernatural world. He must choose between his old life in the ordinary 
  world and a new life as an undercover spy. Helen deals with trouble at th
  e New York Mother House.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -29,12 +18,22 @@ SUMMARY:Talamasca: The Secret Order - 1x01 - We Watch. And We Are Always T
 UID:NzbDrone_episode_24532
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:As four misfit kids vow to find their missing classmate\, Majo
+ r Leroy Hanlon arrives to a mixed reception at Derry Air Force Base.
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251027
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:IT: Welcome to Derry - 1x01 - The Pilot
+UID:NzbDrone_episode_24599
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:AMC
-DESCRIPTION:Guy begins training with Helen in London on his first mission 
- to follow a mysterious hitman\, a role he is sent to complete while in Lo
- ndon with the hope of finding answers to his family's involvement in the 
- supernatural world.
-DTSTAMP:20251029T034008Z
+DESCRIPTION:Guy joins the Talamasca\, leaving his old life as a lawyer beh
+ ind. Helen trains him on the ins and outs of undercover work. Guy is sent
+  to London on his first mission: to follow a mysterious hit man.
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +45,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:A catastrophic event upends South Oxford. Sarah grows suspicio
  us of the emergency response. While investigating\, she encounters Zoë Bo
  ehm.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +56,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:It’s up to the Slow Horses to stop Farouk’s team from completi
  ng its mission in a final act of mass carnage.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -68,7 +67,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Zoë goes digging for answers as Sarah starts to spiral. Hamza 
  is under pressure to keep a lid on the crisis.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -76,19 +75,8 @@ SUMMARY:Down Cemetery Road - 1x02 - A Kind of Grief
 UID:NzbDrone_episode_23047
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Comedy Central
-DESCRIPTION:The White House deals with a disruptive spirit from the east w
- ing\, while Stan worries that South Park has become too political.
-DTSTAMP:20251029T034008Z
-DTSTART;VALUE=DATE:20251030
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:South Park - 28x02 - The Woman In The Hat
-UID:NzbDrone_episode_24574
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251030
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -96,11 +84,22 @@ SUMMARY:X Factor (IT) - 19x08 - Live 2
 UID:NzbDrone_episode_21471
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Comedy Central
+DESCRIPTION:The White House deals with a disruptive spirit from the east w
+ ing\, while Stan worries that South Park has become too political.
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251101
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:South Park - 28x02 - The Woman In The Hat
+UID:NzbDrone_episode_24574
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:AMC
 DESCRIPTION:Guy is searching for answers about his family while he uncover
  s more about the Talamasca's secrets and its involvement in the supernatu
  ral world.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251103
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -108,18 +107,33 @@ SUMMARY:Talamasca: The Secret Order - 1x03 - The Task at Hand
 UID:NzbDrone_episode_24534
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:After joining Leroy at their new house in Derry\, Charlotte is
+  left with a strange feeling while running errands in town\, and Will is 
+ teased on his first day of school. Later\, Lilly faces pressure from all 
+ sides about what really happened at the movie theater\, and Ronnie worrie
+ s about her father's fate.
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251103
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x02 - The Thing in the Dark
+UID:NzbDrone_episode_24600
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV
-DESCRIPTION:.
-DTSTAMP:20251029T034008Z
+DESCRIPTION:Sarah winds up on an unexpected road trip. Zoë begins pulling 
+ threads left behind by Joe and suspects something bigger is at play.
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Down Cemetery Road - 1x03 - Episode 3
+SUMMARY:Down Cemetery Road - 1x03 - Filthy Work
 UID:NzbDrone_episode_23048
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -128,7 +142,7 @@ UID:NzbDrone_episode_21472
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251107
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +151,7 @@ UID:NzbDrone_episode_23827
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251107
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -149,7 +163,7 @@ CATEGORIES:AMC
 DESCRIPTION:Guy's search for his family's hidden past leads him down a dan
  gerous path\, forcing him to confront the reality of the supernatural wor
  ld he is now a part of.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -157,18 +171,31 @@ SUMMARY:Talamasca: The Secret Order - 1x04 - Wet Work
 UID:NzbDrone_episode_24535
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:When a major find yields few clues\, General Shaw pushes ahead
+  with his top-secret mission\, ordering Leroy and Pauly to escort Dick Ha
+ llorann on an aerial search for a new dig site. Meanwhile\, Rose attends 
+ a tribal meeting about the military presence in Derry\, and Ronnie\, Lill
+ y\, Will\, and Rich attempt to get visual proof by conjuring an Orixá.
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251110
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x03 - Now You See It
+UID:NzbDrone_episode_24601
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV
-DESCRIPTION:.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251112
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Down Cemetery Road - 1x04 - Episode 4
+SUMMARY:Down Cemetery Road - 1x04 - TBA
 UID:NzbDrone_episode_23049
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -177,7 +204,7 @@ UID:NzbDrone_episode_24575
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -186,7 +213,7 @@ UID:NzbDrone_episode_21473
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251114
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -198,7 +225,7 @@ CATEGORIES:AMC
 DESCRIPTION:The secrets of the Talamasca come to light as Guy uncovers a c
  onspiracy that could affect the balance between the mortal and supernatur
  al worlds.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251117
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -206,18 +233,26 @@ SUMMARY:Talamasca: The Secret Order - 1x05 - The Puzzle Palace
 UID:NzbDrone_episode_24536
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251117
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x04 - TBA
+UID:NzbDrone_episode_24602
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV
-DESCRIPTION:.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251119
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Down Cemetery Road - 1x05 - Episode 5
+SUMMARY:Down Cemetery Road - 1x05 - TBA
 UID:NzbDrone_episode_23050
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -226,7 +261,7 @@ UID:NzbDrone_episode_21474
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251121
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -237,11 +272,65 @@ BEGIN:VEVENT
 CATEGORIES:AMC
 DESCRIPTION:The season finale features a climactic confrontation between G
  uy and Jasper as the truth about the Talamasca's secrets is revealed.
-DTSTAMP:20251029T034008Z
+DTSTAMP:20251030T034008Z
 DTSTART;VALUE=DATE:20251124
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Talamasca: The Secret Order - 1x06 - The 752
 UID:NzbDrone_episode_24537
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251124
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x05 - TBA
+UID:NzbDrone_episode_24603
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Down Cemetery Road - 1x06 - TBA
+UID:NzbDrone_episode_23051
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Stranger Things - 5x01 - Chapter One: The Crawl
+UID:NzbDrone_episode_10820
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Stranger Things - 5x02 - Chapter Two: The Vanishing of …
+UID:NzbDrone_episode_21169
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Stranger Things - 5x03 - Chapter Three: The Turnbow Trap
+UID:NzbDrone_episode_21170
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20251030T034008Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Stranger Things - 5x04 - Chapter Four: Sorcerer
+UID:NzbDrone_episode_21171
 END:VEVENT
 END:VCALENDAR
