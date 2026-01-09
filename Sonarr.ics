@@ -7,112 +7,16 @@ BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:As Vecna prepares to destroy the world as we know it\, the par
  ty must put everything on the line to defeat him once and for all.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
+DTSTAMP:20260109T034010Z
+DTSTART;VALUE=DATE:20260102
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Stranger Things - 5x08 - Chapter Eight: The Rightside Up
 UID:NzbDrone_episode_21175
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Simon Greene's violent attempt to bring his runaway daughter h
- ome goes viral. Another desperate father hires PI Elena Ravenscroft to fi
- nd his son.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x01 - Seeing Is Believing
-UID:NzbDrone_episode_24833
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:The Greenes are rushed to hospital\, where Simon is confronted
-  by the police. Elena discovers a connection between Henry and another mi
- ssing person.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x02 - Tattoos While U Wait
-UID:NzbDrone_episode_24834
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Elena makes an unwelcome late-night visit to Maria. Simon relu
- ctantly attends a memorial service and learns some unsettling news about 
- Paige.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x03 - Breaking Point
-UID:NzbDrone_episode_24835
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Simon learns about his daughter's life at university — and his
-  wife's secret. Dee Dee and Ash put a violent end to a chapter of their t
- raumatic past.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x04 - A Different Time
-UID:NzbDrone_episode_24836
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Elena confronts her mother-in-law and visits an adoption agenc
- y as Simon collects samples. Isaac questions an old friend about Luther's
-  shooting.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x05 - Forever Be The Shining Truth
-UID:NzbDrone_episode_24837
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Elena joins the dots between the murdered and the missing. Sim
- on's kids track down Paige's professor\, who shares a shocking truth abou
- t her time at uni.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x06 - The Man I Knew
-UID:NzbDrone_episode_24838
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Dee Dee comes clean to Ash\, and zeroes in on a new target. Th
- e police find a lead connected to the Shining Truth\, and Simon returns t
- o Rocco's basement.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x07 - Sliding Doors
-UID:NzbDrone_episode_24839
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:As the police close in on the Shining Haven\, missing pieces f
- all into place and hidden truths come to light — but some threaten to sta
- y buried forever.
-DTSTAMP:20260108T034007Z
-DTSTART;VALUE=DATE:20260101
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Run Away - 1x08 - It Stays With Us
-UID:NzbDrone_episode_24840
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260108T034007Z
+DTSTAMP:20260109T034010Z
 DTSTART;VALUE=DATE:20260109
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,7 +28,7 @@ CATEGORIES:Netflix
 DESCRIPTION:An inside look at the years of effort and craft that went into
   the final installment of the Duffer Brothers' generation-defining series
  .
-DTSTAMP:20260108T034007Z
+DTSTAMP:20260109T034010Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -134,7 +38,7 @@ UID:NzbDrone_episode_24846
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260108T034007Z
+DTSTAMP:20260109T034010Z
 DTSTART;VALUE=DATE:20260116
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -143,7 +47,7 @@ UID:NzbDrone_episode_24802
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260108T034007Z
+DTSTAMP:20260109T034010Z
 DTSTART;VALUE=DATE:20260123
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -152,7 +56,7 @@ UID:NzbDrone_episode_24803
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260108T034007Z
+DTSTAMP:20260109T034010Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:TENTATIVE
