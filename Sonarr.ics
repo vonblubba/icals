@@ -4,81 +4,10 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:TV newswoman Anna returns to her small Georgia hometown to rep
- ort on a murder case\, in which her estranged husband Jack is the lead in
- vestigator.
-DTSTAMP:20260115T034007Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:His & Hers (2026) - 1x01 - Episode 1
-UID:NzbDrone_episode_24868
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Jack and Priya try to poke holes in a key suspect's alibi. Ann
- a returns to her alma mater for a contentious interview with an old class
- mate.
-DTSTAMP:20260115T034007Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:His & Hers (2026) - 1x02 - Episode 2
-UID:NzbDrone_episode_24869
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Anna jumps at a chance to return to the anchor desk. Zoe confr
- onts Jack about what he's been hiding. Alice's decline forces some tough 
- conversations.
-DTSTAMP:20260115T034007Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:His & Hers (2026) - 1x03 - Episode 3
-UID:NzbDrone_episode_24870
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Jack struggles to placate the locals at a fiery town hall. Pri
- ya's suspicions reach a breaking point. Anna is haunted by painful memori
- es.
-DTSTAMP:20260115T034007Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:His & Hers (2026) - 1x04 - Episode 4
-UID:NzbDrone_episode_24871
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Backed into a corner\, Jack grows increasingly erratic. Anna f
- inds herself on the opposite side of an interview. Richard's past comes t
- o light.
-DTSTAMP:20260115T034007Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:His & Hers (2026) - 1x05 - Episode 5
-UID:NzbDrone_episode_24872
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:As the case comes to a close\, Jack and Anna must reckon with 
- the sins of the past — and the brutal consequences in the present.
-DTSTAMP:20260115T034007Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:His & Hers (2026) - 1x06 - Episode 6
-UID:NzbDrone_episode_24873
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO Max
 DESCRIPTION:On July 4th\, Robby meets his replacement for his upcoming sab
  batical\, and a familiar face returns to the Pitt.
-DTSTAMP:20260115T034007Z
+DTSTAMP:20260116T034008Z
 DTSTART;VALUE=DATE:20260109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,7 +16,10 @@ UID:NzbDrone_episode_23885
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260115T034007Z
+DESCRIPTION:Distracted by her impending deposition\, King suffers a fall. 
+ Then\, while Al-Hashimi attempts to revolutionize the department’s techno
+ logy\, Javadi sizes up the competition.
+DTSTAMP:20260116T034008Z
 DTSTART;VALUE=DATE:20260116
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -96,7 +28,7 @@ UID:NzbDrone_episode_24802
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260115T034007Z
+DTSTAMP:20260116T034008Z
 DTSTART;VALUE=DATE:20260123
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -105,7 +37,7 @@ UID:NzbDrone_episode_24803
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260115T034007Z
+DTSTAMP:20260116T034008Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -114,7 +46,7 @@ UID:NzbDrone_episode_24804
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260115T034007Z
+DTSTAMP:20260116T034008Z
 DTSTART;VALUE=DATE:20260206
 SEQUENCE:0
 STATUS:TENTATIVE
