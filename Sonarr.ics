@@ -8,7 +8,7 @@ CATEGORIES:HBO Max
 DESCRIPTION:Distracted by her impending deposition\, King suffers a fall. 
  Then\, while Al-Hashimi attempts to revolutionize the department’s techno
  logy\, Javadi sizes up the competition.
-DTSTAMP:20260119T034007Z
+DTSTAMP:20260120T034008Z
 DTSTART;VALUE=DATE:20260116
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -16,8 +16,19 @@ SUMMARY:The Pitt - 2x02 - 8:00 A.M.
 UID:NzbDrone_episode_24802
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:On his journey to the forthcoming tournament in Ashford\, Dunk
+  meets a clever young boy named Egg\, who offers to be his squire.
+DTSTAMP:20260120T034008Z
+DTSTART;VALUE=DATE:20260119
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A Knight of the Seven Kingdoms - 1x01 - The Hedge Knight
+UID:NzbDrone_episode_24882
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260119T034007Z
+DTSTAMP:20260120T034008Z
 DTSTART;VALUE=DATE:20260123
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,8 +36,20 @@ SUMMARY:The Pitt - 2x03 - 9:00 A.M.
 UID:NzbDrone_episode_24803
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:Dunk appeals to various lords in order to gain entrance into t
+ he tournament...but Egg advises him to hold onto his pride. When the Targ
+ aryens arrive at Ashford\, Dunk seizes his moment with Prince Baelor.
+DTSTAMP:20260120T034008Z
+DTSTART;VALUE=DATE:20260126
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:A Knight of the Seven Kingdoms - 1x02 - Hard Salt Beef
+UID:NzbDrone_episode_24883
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260119T034007Z
+DTSTAMP:20260120T034008Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -34,8 +57,21 @@ SUMMARY:The Pitt - 2x04 - 10:00 A.M.
 UID:NzbDrone_episode_24804
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:After Egg attempts to train Dunk's uncooperative horse\, Dunk 
+ teaches his new squire an important skill. As they take in the tourney's 
+ first full day of events\, Dunk receives a proposition from the Ashford s
+ teward that could help secure his future.
+DTSTAMP:20260120T034008Z
+DTSTART;VALUE=DATE:20260202
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:A Knight of the Seven Kingdoms - 1x03 - The Squire
+UID:NzbDrone_episode_24884
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260119T034007Z
+DTSTAMP:20260120T034008Z
 DTSTART;VALUE=DATE:20260206
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -43,12 +79,30 @@ SUMMARY:The Pitt - 2x05 - 11:00 A.M.
 UID:NzbDrone_episode_24805
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DTSTAMP:20260120T034008Z
+DTSTART;VALUE=DATE:20260209
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:A Knight of the Seven Kingdoms - 1x04 - TBA
+UID:NzbDrone_episode_24885
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO Max
-DTSTAMP:20260119T034007Z
+DTSTAMP:20260120T034008Z
 DTSTART;VALUE=DATE:20260213
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Pitt - 2x06 - 12:00 P.M.
 UID:NzbDrone_episode_24806
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTSTAMP:20260120T034008Z
+DTSTART;VALUE=DATE:20260216
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:A Knight of the Seven Kingdoms - 1x05 - TBA
+UID:NzbDrone_episode_24886
 END:VEVENT
 END:VCALENDAR
