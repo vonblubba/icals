@@ -4,74 +4,9 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:HBO Max
-DESCRIPTION:Al-Hashimi reveals details from her medical history\, forcing 
- Robby to face an ethical dilemma as he prepares to leave for his sabbatic
- al. Note: Credit scene
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260417
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Pitt - 2x15 - 9:00 P.M.
-UID:NzbDrone_episode_24825
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:Titan X makes landfall in Australia\, where Shaw lures Godzill
- a into a showdown. Isabel uses the battle as a distraction for her secret
-  operation.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260417
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Monarch: Legacy of Monsters - 2x08 - Separate Ways
-UID:NzbDrone_episode_24678
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:Alex takes Ed’s advice and finds a new project to focus on: a 
- job at Helios.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260417
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:For All Mankind - 5x04 - Open Source
-UID:NzbDrone_episode_24904
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Tokyo MX
-DESCRIPTION:Kenshiro and Bat arrive in Southern Cross\, the stronghold of 
- the King Army\, infamous for its countless atrocities. Waiting for nightf
- all\, they slip into the city\, where they witness Club—one of King’s men
- — brutally tormenting innocent slaves. Confronted with this cruelty\, Ken
- shiro unleashes the power of Hokuto Shinken!!
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260417
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Fist of the North Star: HOKUTO NO KEN - 1x03 - Southern Cross
-UID:NzbDrone_episode_25582
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Tokyo MX
-DESCRIPTION:Kenshiro finally reaches his long-standing nemesis: Shin\, the
-  successor to Nanto Koshuken and the man known as King. Fueled by the fir
- e of revenge\, Kenshiro suddenly finds himself facing Heart\, one of Shin
- ’s loyal henchmen. The massive Heart\, known as the Destroyer of Fists\, 
- is protected by layers of thick fat that render Hokuto Shinken ineffectiv
- e. Kenshiro is driven into a desperate\, life threatening corner...but ca
- n he find a way to turn the tide!?
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260417
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Fist of the North Star: HOKUTO NO KEN - 1x04 - Flames of Obsession
-UID:NzbDrone_episode_25583
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Mary and Eleanor’s quest for justice runs into complications.
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +18,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:The search for a killer lands June back in Hegarty’s orbit\, w
  ho has a proposition for her: Join his intelligence operation to find her
   man.
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:IN THIS HOUSE WE BELIEVE IN HOMELANDER!
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -101,136 +36,11 @@ SUMMARY:The Boys - 5x04 - King of Hell
 UID:NzbDrone_episode_22312
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:A surprising new threat alters the gang's plans to shovel snow
-  for extra cash\, bringing them face to face with danger and closer to a 
- cool new student.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x01 - Chapter One: Welcome to H
- awkins\, New Kid
-UID:NzbDrone_episode_24913
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Nikki joins the party — and the newly formed Hawkins Investiga
- tors Club. Strange things take root at a nearby farm and shake up the Win
- ter Festival.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x02 - Chapter Two: Bad Harvest
-UID:NzbDrone_episode_25566
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:The kids look for answers about the mutant creatures plaguing 
- their town and get a helpful lesson from Mrs. Baxter\, their substitute s
- cience teacher.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x03 - Chapter Three: Evolution
-UID:NzbDrone_episode_25567
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:A worried Mike decides to come clean to Hopper\, and Dustin dr
- ags Steve into the H.I.C. Nikki welcomes Will to the mosh pit. Lucas and 
- Max hit the arcade.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x04 - Chapter Four: The Confess
- ion
-UID:NzbDrone_episode_25568
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:When a photo that could put El in danger gets sold to a popula
- r tabloid\, the kids pull Nancy into a heist to get it back. If they can'
- t? It's game over.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x05 - Chapter Five: The Weekly 
- Watcher
-UID:NzbDrone_episode_25569
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:As a blizzard bears down on Hawkins\, Dustin goes on a side qu
- est\, and Max and Lucas hear a cry for help. A bold move lands some of th
- e gang in detention.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x06 - Chapter Six: A Storm is C
- oming
-UID:NzbDrone_episode_25570
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Lucas and Max seek higher ground to call in a Code Red. Across
-  town\, Will\, Mike and Nikki are snowed in at school — and El can see th
- ey're not alone.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x07 - Chapter Seven: Enter the 
- Storm
-UID:NzbDrone_episode_25571
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Dustin finds danger at the Food Mart when two terrifying creat
- ures break in. The gang gears up to go underground just in time for Nikki
- 's birthday.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x08 - Chapter Eight: The Party
-UID:NzbDrone_episode_25572
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:In the wake of a shocking revelation\, the H.I.C. digs in to i
- nvestigate\, splitting up into teams to search for more clues and uncover
-  the truth.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x09 - Chapter Nine: The Suspect
-UID:NzbDrone_episode_25573
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:With time running out\, the party pulls together for a brave b
- attle to stay alive. Friends have to help friends — because Hawkins' futu
- re depends on it.
-DTSTAMP:20260424T024009Z
-DTSTART;VALUE=DATE:20260423
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stranger Things: Tales from '85 - 1x10 - Chapter Ten: Countdown
-UID:NzbDrone_episode_25574
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Monarch and the team head to Skull Island. Cate tries to reaso
  n with Kentaro and stop Isabel. Shaw and Keiko search for Billy’s long-lo
  st rift.
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260424
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -240,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Chaos erupts on Mars following a shocking revelation.
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260424
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -249,16 +59,22 @@ UID:NzbDrone_episode_24905
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DESCRIPTION:Kenshiro burns with rage toward Shin\, the man who stole his b
+ eloved fiancée Yuria. Shin is stunned by the transformation of the Kenshi
+ ro now standing before him. Realizing the battle is turning against him\,
+  Shin resorts to a terrifying act. At last\, the long and bitter feud bet
+ ween Shin and Kenshiro nears its final reckoning!! ©Buronson&Tetsuo Hara/
+ Coamix\, HOKUTO Committee.
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260424
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Fist of the North Star: HOKUTO NO KEN - 1x05 - TBA
+SUMMARY:Fist of the North Star: HOKUTO NO KEN - 1x05 - Bloody Cross
 UID:NzbDrone_episode_25584
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260424
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -269,7 +85,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:As new information emerges\, Mary and Eleanor risk it all to e
  xpose the truth and find closure.
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -280,7 +96,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Hegarty brings June into his plan to use Billy as an undercove
  r asset. June’s home life starts to unravel.
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -289,7 +105,7 @@ UID:NzbDrone_episode_25620
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -298,7 +114,9 @@ UID:NzbDrone_episode_22651
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DESCRIPTION:Kong and Titan X face off in a colossal clash that threatens t
+ o reshape Skull Island. Shaw embarks on a dangerous journey.
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -307,7 +125,9 @@ UID:NzbDrone_episode_24680
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DESCRIPTION:A desperate group of Marsies tries to rectify a dangerous situ
+ ation.
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -316,7 +136,7 @@ UID:NzbDrone_episode_24906
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -325,7 +145,7 @@ UID:NzbDrone_episode_25586
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -334,7 +154,7 @@ UID:NzbDrone_episode_25587
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -343,7 +163,7 @@ UID:NzbDrone_episode_25621
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -352,7 +172,7 @@ UID:NzbDrone_episode_22838
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260508
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -361,7 +181,7 @@ UID:NzbDrone_episode_24907
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260508
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -370,7 +190,7 @@ UID:NzbDrone_episode_25588
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260508
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -379,7 +199,7 @@ UID:NzbDrone_episode_25589
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -388,7 +208,7 @@ UID:NzbDrone_episode_25022
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -397,7 +217,7 @@ UID:NzbDrone_episode_25622
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -407,7 +227,7 @@ UID:NzbDrone_episode_22933
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260515
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -416,7 +236,7 @@ UID:NzbDrone_episode_24908
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260515
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -425,7 +245,7 @@ UID:NzbDrone_episode_25590
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260515
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -434,7 +254,7 @@ UID:NzbDrone_episode_25591
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -443,11 +263,20 @@ UID:NzbDrone_episode_25623
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260424T024009Z
+DTSTAMP:20260425T024009Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Boys - 5x08 - Blood and Bone
 UID:NzbDrone_episode_22934
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTSTAMP:20260425T024009Z
+DTSTART;VALUE=DATE:20260522
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:For All Mankind - 5x09 - Sons and Daughters
+UID:NzbDrone_episode_24909
 END:VEVENT
 END:VCALENDAR
