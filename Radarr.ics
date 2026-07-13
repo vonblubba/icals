@@ -4,6 +4,42 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Atomic Monster
+DESCRIPTION:A strange doorway appears in the basement of a furniture showr
+ oom.
+DTEND;VALUE=DATE:20260528
+DTSTAMP:20260713T020619Z
+DTSTART;VALUE=DATE:20260527
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backrooms (Theatrical Release)
+UID:Radarr_movie_1245_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Atomic Monster
+DESCRIPTION:A strange doorway appears in the basement of a furniture showr
+ oom.
+DTEND;VALUE=DATE:20260715
+DTSTAMP:20260713T020619Z
+DTSTART;VALUE=DATE:20260714
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backrooms (Digital Release)
+UID:Radarr_movie_1245_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Atomic Monster
+DESCRIPTION:A strange doorway appears in the basement of a furniture showr
+ oom.
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260713T020619Z
+DTSTART;VALUE=DATE:20261023
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backrooms (Physical Release)
+UID:Radarr_movie_1245_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Universal Pictures
 DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
  d perilous journey home following the Trojan War. Throughout his voyage\,
@@ -11,7 +47,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260709T123157Z
+DTSTAMP:20260713T020619Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -28,7 +64,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260709T123157Z
+DTSTAMP:20260713T020619Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -45,7 +81,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260709T123157Z
+DTSTAMP:20260713T020619Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -62,7 +98,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260709T123157Z
+DTSTAMP:20260713T020619Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,15 +107,14 @@ UID:Radarr_movie_1567_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Edko Films
-DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
- nd he receives no help from the corrupt police\, Wei sets out to find her
-  himself. His only ally is Navin\, a relentless journalist whose wife has
-  mysteriously disappeared. Fueled by a furious vengeance\, the unlikely d
- uo ruthlessly battle the kidnappers in this explosive martial arts showdo
- wn.
-DTEND;VALUE=DATE:20260611
-DTSTAMP:20260709T123157Z
-DTSTART;VALUE=DATE:20260610
+DESCRIPTION:After a criminal network kidnaps Wang Wei's daughter and the c
+ orrupt police refuse to assist him\, Wei sets out on his own to locate he
+ r. Navin\, a tenacious journalist whose wife has mysteriously vanished\, 
+ is his only ally. In this explosive martial arts showdown\, the unlikely 
+ duo fights the kidnappers ruthlessly driven by a furious vengeance.
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260713T020619Z
+DTSTART;VALUE=DATE:20250907
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Furious (Theatrical Release)
@@ -87,18 +122,32 @@ UID:Radarr_movie_1607_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Edko Films
-DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
- nd he receives no help from the corrupt police\, Wei sets out to find her
-  himself. His only ally is Navin\, a relentless journalist whose wife has
-  mysteriously disappeared. Fueled by a furious vengeance\, the unlikely d
- uo ruthlessly battle the kidnappers in this explosive martial arts showdo
- wn.
+DESCRIPTION:After a criminal network kidnaps Wang Wei's daughter and the c
+ orrupt police refuse to assist him\, Wei sets out on his own to locate he
+ r. Navin\, a tenacious journalist whose wife has mysteriously vanished\, 
+ is his only ally. In this explosive martial arts showdown\, the unlikely 
+ duo fights the kidnappers ruthlessly driven by a furious vengeance.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260709T123157Z
+DTSTAMP:20260713T020619Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Furious (Digital Release)
 UID:Radarr_movie_1607_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Edko Films
+DESCRIPTION:After a criminal network kidnaps Wang Wei's daughter and the c
+ orrupt police refuse to assist him\, Wei sets out on his own to locate he
+ r. Navin\, a tenacious journalist whose wife has mysteriously vanished\, 
+ is his only ally. In this explosive martial arts showdown\, the unlikely 
+ duo fights the kidnappers ruthlessly driven by a furious vengeance.
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260713T020619Z
+DTSTART;VALUE=DATE:20261023
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Furious (Physical Release)
+UID:Radarr_movie_1607_physical
 END:VEVENT
 END:VCALENDAR
