@@ -8,7 +8,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,12 +47,26 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Odyssey (Theatrical Release)
 UID:Radarr_movie_1309_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Warner Bros. Pictures
+DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia 
+ and transports their neighborhood to someplace unknown\, the Platt family
+  soon discovers that their very survival depends on them sticking togethe
+ r as they navigate their now unrecognizable surroundings.
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260720T020549Z
+DTSTART;VALUE=DATE:20260812
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The End of Oak Street (Theatrical Release)
+UID:Radarr_movie_1530_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Miramax
@@ -64,7 +78,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -81,7 +95,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -98,56 +112,11 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260713T020619Z
+DTSTAMP:20260720T020549Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Kill Bill: The Whole Bloody Affair (Physical Release)
 UID:Radarr_movie_1567_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Edko Films
-DESCRIPTION:After a criminal network kidnaps Wang Wei's daughter and the c
- orrupt police refuse to assist him\, Wei sets out on his own to locate he
- r. Navin\, a tenacious journalist whose wife has mysteriously vanished\, 
- is his only ally. In this explosive martial arts showdown\, the unlikely 
- duo fights the kidnappers ruthlessly driven by a furious vengeance.
-DTEND;VALUE=DATE:20250908
-DTSTAMP:20260713T020619Z
-DTSTART;VALUE=DATE:20250907
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Furious (Theatrical Release)
-UID:Radarr_movie_1607_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Edko Films
-DESCRIPTION:After a criminal network kidnaps Wang Wei's daughter and the c
- orrupt police refuse to assist him\, Wei sets out on his own to locate he
- r. Navin\, a tenacious journalist whose wife has mysteriously vanished\, 
- is his only ally. In this explosive martial arts showdown\, the unlikely 
- duo fights the kidnappers ruthlessly driven by a furious vengeance.
-DTEND;VALUE=DATE:20260708
-DTSTAMP:20260713T020619Z
-DTSTART;VALUE=DATE:20260707
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Furious (Digital Release)
-UID:Radarr_movie_1607_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Edko Films
-DESCRIPTION:After a criminal network kidnaps Wang Wei's daughter and the c
- orrupt police refuse to assist him\, Wei sets out on his own to locate he
- r. Navin\, a tenacious journalist whose wife has mysteriously vanished\, 
- is his only ally. In this explosive martial arts showdown\, the unlikely 
- duo fights the kidnappers ruthlessly driven by a furious vengeance.
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20260713T020619Z
-DTSTART;VALUE=DATE:20261023
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Furious (Physical Release)
-UID:Radarr_movie_1607_physical
 END:VEVENT
 END:VCALENDAR
