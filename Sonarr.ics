@@ -4,73 +4,44 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:AMC
-DESCRIPTION:Lestat is tormented by visions who force him to confront all h
- is failings.
-DTSTAMP:20260727T020547Z
-DTSTART;VALUE=DATE:20260720
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Interview With The Vampire - 3x07 - The Failures
-UID:NzbDrone_episode_25053
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DESCRIPTION:Kusanagi and Togusa take their suspect into custody after a fu
- rious chase in their Fuchikomas. Elsewhere\, Aramaki and Batou are stakin
- g out Col. Malles when he is paid a visit by someone they suspect is the 
- Puppet Master\, the hacker who released the virus on his orders.
-DTSTAMP:20260727T020547Z
-DTSTART;VALUE=DATE:20260721
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:THE GHOST IN THE SHELL - 1x03 - EPISODE 03: JUNK JUNGLE ii + MEGAT
- ECH MACHINE i + ii
-UID:NzbDrone_episode_26114
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:Pike leads the crew into a stellar storm\, which sends the Ent
- erprise back 65 million years - to the time of the dinosaurs. The crew mu
- st find their way home before their actions affect the past and change th
- e distant future.
-DTSTAMP:20260727T020547Z
-DTSTART;VALUE=DATE:20260723
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Star Trek: Strange New Worlds - 4x01 - Valles Marineris
-UID:NzbDrone_episode_25634
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Fuji TV
-DTSTAMP:20260727T020547Z
+DESCRIPTION:There has been a rash of attacks against humans by promotional
+  sample robots. Kusanagi's team rounds up robots of that same model line\
+ , and they learn that they all share a common trait. Batou and Togusa hea
+ d to Hanka Precision Instruments\, where they are made\, to determine wha
+ t is behind the attacks.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:THE GHOST IN THE SHELL - 1x04 - EPISODE 04: ROBOT RONDO
 UID:NzbDrone_episode_26115
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
-DTSTAMP:20260727T020547Z
+DESCRIPTION:Spock\, La'An and Kirk board a lost Federation ship\, where an
+  old mystery becomes a survival crisis.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260730
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Star Trek: Strange New Worlds - 4x02 - Griffin Incident
+STATUS:CONFIRMED
+SUMMARY:Star Trek: Strange New Worlds - 4x02 - The Griffin Incident
 UID:NzbDrone_episode_25635
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260727T020547Z
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260804
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:THE GHOST IN THE SHELL - 1x05 - TBA
+SUMMARY:THE GHOST IN THE SHELL - 1x05 - EPISODE 05: PHANTOM FUND
 UID:NzbDrone_episode_26116
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
-DTSTAMP:20260727T020547Z
+DESCRIPTION:The Enterprise crew visits a shore-leave planet that guarantee
+ s fun in an inebriating atmosphere.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260806
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -79,7 +50,7 @@ UID:NzbDrone_episode_25636
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260727T020547Z
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -88,7 +59,10 @@ UID:NzbDrone_episode_26117
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260727T020547Z
+DESCRIPTION:Reacher suspects a woman on a NYC subway might be a suicide bo
+ mber. His investigation draws him into a deadly shadow war with a terrori
+ st cell and conspiracy that threatens his life.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,7 +71,10 @@ UID:NzbDrone_episode_26105
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260727T020547Z
+DESCRIPTION:Tamara becomes entangled in the mystery when she\, Reacher\, a
+ nd Jacob run into shady government agents and mysterious professional sol
+ diers\, all looking for a missing flash drive.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -106,7 +83,11 @@ UID:NzbDrone_episode_26106
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260727T020547Z
+DESCRIPTION:Reacher discovers that the situation is more complex than it s
+ eems\, as his bond with Lila grows closer. Tamara\, Jacob and Plum stumbl
+ e upon a crucial clue when a new attack forces them to return to Philadel
+ phia.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -115,7 +96,9 @@ UID:NzbDrone_episode_26107
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
-DTSTAMP:20260727T020547Z
+DESCRIPTION:Una is mistaken for a virtuous kingpin against a Klingon occup
+ ation.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260813
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,7 +107,7 @@ UID:NzbDrone_episode_25637
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260727T020547Z
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260818
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -133,7 +116,10 @@ UID:NzbDrone_episode_26118
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20260727T020547Z
+DESCRIPTION:Reacher talks to Sampson\, Tamara breaks into a government str
+ ucture\, Jacob gets bad news\, and the team learns information that chang
+ es everything.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -142,12 +128,47 @@ UID:NzbDrone_episode_26108
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
-DTSTAMP:20260727T020547Z
+DESCRIPTION:A transporter accident turns everyone but Spock into puppets a
+ s pirates invade the ship.
+DTSTAMP:20260803T020629Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Star Trek: Strange New Worlds - 4x05 - Level-Five Transporter Acci
  dent
 UID:NzbDrone_episode_25638
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Fuji TV
+DTSTAMP:20260803T020629Z
+DTSTART;VALUE=DATE:20260825
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:THE GHOST IN THE SHELL - 1x08 - TBA
+UID:NzbDrone_episode_26119
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Following a misunderstanding\, Reacher becomes the most wanted
+  man in Philadelphia. Old enemies track it down and new ones appear. Jaco
+ b\, Tamara and Plum end up involved in a shooting and Jacob avenges his s
+ ister's death.
+DTSTAMP:20260803T020629Z
+DTSTART;VALUE=DATE:20260826
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Reacher - 4x05 - TBA
+UID:NzbDrone_episode_26109
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:The Enterprise falls into a slipstream that pushes them to a c
+ atastrophic warp threshold.
+DTSTAMP:20260803T020629Z
+DTSTART;VALUE=DATE:20260827
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Star Trek: Strange New Worlds - 4x06 - Off-Hour
+UID:NzbDrone_episode_25639
 END:VEVENT
 END:VCALENDAR
