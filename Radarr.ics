@@ -4,82 +4,45 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Warner Bros. Pictures
-DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia 
- and transports their neighborhood to someplace unknown\, the Platt family
-  soon discovers that their very survival depends on them sticking togethe
- r as they navigate their now unrecognizable surroundings.
-DTEND;VALUE=DATE:20260813
-DTSTAMP:20260803T020629Z
-DTSTART;VALUE=DATE:20260812
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The End of Oak Street (Theatrical Release)
-UID:Radarr_movie_1530_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20260803T020629Z
-DTSTART;VALUE=DATE:20251205
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
-UID:Radarr_movie_1567_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20260803T020629Z
-DTSTART;VALUE=DATE:20260216
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
-UID:Radarr_movie_1567_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20260729
-DTSTAMP:20260803T020629Z
-DTSTART;VALUE=DATE:20260728
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Physical Release)
-UID:Radarr_movie_1567_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Madants
 DESCRIPTION:Set in a near future society ruled by sentient A.I.\, a privat
  e eye investigates a murder case only to discover a rebel group capable o
  f undermining the digital overlord. As the detective's identity slowly un
  ravels\, his world enters a state of hypnotic meltdown.
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260803T020629Z
+DTSTAMP:20260810T020616Z
 DTSTART;VALUE=DATE:20260821
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Hot Spot (Theatrical Release)
 UID:Radarr_movie_1613_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Annapurna Pictures
+DESCRIPTION:Joe and Angela’s marriage is on thin ice. When they invite the
+ ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
+ to unexpected places. Have they reignited the spark or lit the match that
+  burns it all down?
+DTEND;VALUE=DATE:20260626
+DTSTAMP:20260810T020616Z
+DTSTART;VALUE=DATE:20260625
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Invite (Theatrical Release)
+UID:Radarr_movie_1614_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Annapurna Pictures
+DESCRIPTION:Joe and Angela’s marriage is on thin ice. When they invite the
+ ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
+ to unexpected places. Have they reignited the spark or lit the match that
+  burns it all down?
+DTEND;VALUE=DATE:20260812
+DTSTAMP:20260810T020616Z
+DTSTART;VALUE=DATE:20260811
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Invite (Digital Release)
+UID:Radarr_movie_1614_digital
 END:VEVENT
 END:VCALENDAR
