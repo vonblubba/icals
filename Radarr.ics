@@ -10,7 +10,7 @@ DESCRIPTION:Set in a near future society ruled by sentient A.I.\, a privat
  f undermining the digital overlord. As the detective's identity slowly un
  ravels\, his world enters a state of hypnotic meltdown.
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260821
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -19,12 +19,12 @@ UID:Radarr_movie_1613_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela’s marriage is on thin ice. When they invite the
+DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -33,16 +33,29 @@ UID:Radarr_movie_1614_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela’s marriage is on thin ice. When they invite the
+DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Invite (Digital Release)
 UID:Radarr_movie_1614_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Seaview Productions
+DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
+ s embarks on the tenuous journey toward recovery amid the opioid epidemic
+  in rural Ohio.
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260817T020619Z
+DTSTART;VALUE=DATE:20260814
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Union County (Theatrical Release)
+UID:Radarr_movie_1656_cinemas
 END:VEVENT
 END:VCALENDAR

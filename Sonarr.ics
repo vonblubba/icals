@@ -5,35 +5,15 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DESCRIPTION:Kusanagi and the team go to the Far North to surveil a combat 
- cyborg named Koil Krasnov. To determine what Koil is after and uncover co
- rruption behind the expansion of Sagawa Electronics' underground factory\
- , Kusanagi infiltrates Sagawa's offices while Batou and the rest make for
-  the underground factory.
-DTSTAMP:20260810T020616Z
-DTSTART;VALUE=DATE:20260804
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:THE GHOST IN THE SHELL - 1x05 - EPISODE 05: PHANTOM FUND
-UID:NzbDrone_episode_26116
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:The Enterprise crew visits a shore-leave planet that guarantee
- s fun in an inebriating atmosphere.
-DTSTAMP:20260810T020616Z
-DTSTART;VALUE=DATE:20260806
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Star Trek: Strange New Worlds - 4x03 - Human Best Friend
-UID:NzbDrone_episode_25636
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Fuji TV
-DTSTAMP:20260810T020616Z
+DESCRIPTION:Kusanagi and her boyfriend are rushed to the hospital after be
+ ing attacked without warning. They suspect Toru Soma\, a terrorist that K
+ usanagi has a history with. Kusanagi and Togusa leave the hospital\, and 
+ after leading their pursuers on a chase\, they find themselves in a fierc
+ e battle against an armed group in an abandoned factory.
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:THE GHOST IN THE SHELL - 1x06 - EPISODE 06: DUMB BARTER
 UID:NzbDrone_episode_26117
 END:VEVENT
@@ -41,47 +21,48 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Ted returns to Richmond to meet the Lady Greyhounds\, but not 
  everyone is glad to see him.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Ted Lasso - 4x02 - Curiouser and Curiouser
+STATUS:CONFIRMED
+SUMMARY:Ted Lasso - 4x02 - Curiouser and Curiouser!
 UID:NzbDrone_episode_26193
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DESCRIPTION:Reacher suspects a woman on a NYC subway might be a suicide bo
- mber. His investigation draws him into a deadly shadow war with a terrori
- st cell and conspiracy that threatens his life.
-DTSTAMP:20260810T020616Z
+DESCRIPTION:A chance encounter with a distraught stranger on a Philadelphi
+ a subway car draws Jack Reacher into a deadly mystery involving a missing
+  flash drive that contains secrets worth killing for.
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Reacher - 4x01 - City of Brotherly Love
 UID:NzbDrone_episode_26105
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DESCRIPTION:Tamara becomes entangled in the mystery when she\, Reacher\, a
- nd Jacob run into shady government agents and mysterious professional sol
- diers\, all looking for a missing flash drive.
-DTSTAMP:20260810T020616Z
+DESCRIPTION:Tamara finds herself caught up in the mystery whether she like
+ s it or not as she\, Reacher\, and Jacob face off against shady governmen
+ t agents and a mysterious squad of professional soldiers all looking for 
+ the same missing flash drive.
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Reacher - 4x02 - Cage Fight
 UID:NzbDrone_episode_26106
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DESCRIPTION:Reacher discovers that the situation is more complex than it s
- eems\, as his bond with Lila grows closer. Tamara\, Jacob and Plum stumbl
- e upon a crucial clue when a new attack forces them to return to Philadel
- phia.
-DTSTAMP:20260810T020616Z
+DESCRIPTION:Reacher learns that things are more complex than they seem as 
+ he and Lila draw closer. Meanwhile\, Tamara\, Jacob\, and Plum find an im
+ portant clue after another attack from one of their mysterious adversarie
+ s sends them back to Philadelphia.
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Reacher - 4x03 - One Small Step
 UID:NzbDrone_episode_26107
 END:VEVENT
@@ -89,31 +70,31 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Una is mistaken for a virtuous kingpin against a Klingon occup
  ation.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260813
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Star Trek: Strange New Worlds - 4x04 - A Case of Chiaroscuro
 UID:NzbDrone_episode_25637
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260818
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:THE GHOST IN THE SHELL - 1x07 - TBA
+SUMMARY:THE GHOST IN THE SHELL - 1x07 - EPISODE 07: BYE BYE CLAY
 UID:NzbDrone_episode_26118
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Richmond’s shareholders are unsure about a women's team. The c
  oaches hold tryouts to fill out their roster.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Ted Lasso - 4x03 - Richmond's Got Talent
+SUMMARY:Ted Lasso - 4x03 - Richmond’s Got Talent
 UID:NzbDrone_episode_26194
 END:VEVENT
 BEGIN:VEVENT
@@ -121,7 +102,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Reacher talks to Sampson\, Tamara breaks into a government str
  ucture\, Jacob gets bad news\, and the team learns information that chang
  es everything.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -132,7 +113,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:A transporter accident turns everyone but Spock into puppets a
  s pirates invade the ship.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -142,18 +123,18 @@ UID:NzbDrone_episode_25638
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:THE GHOST IN THE SHELL - 1x08 - TBA
+SUMMARY:THE GHOST IN THE SHELL - 1x08 - EPISODE 08: BRAIN DRAIN
 UID:NzbDrone_episode_26119
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:The coaches must figure out how to break up team cliques. Ted 
  adjusts to life outside the locker room.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -166,7 +147,7 @@ DESCRIPTION:Following a misunderstanding\, Reacher becomes the most wanted
   man in Philadelphia. Old enemies track it down and new ones appear. Jaco
  b\, Tamara and Plum end up involved in a shooting and Jacob avenges his s
  ister's death.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -177,7 +158,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:The Enterprise falls into a slipstream that pushes them to a c
  atastrophic warp threshold.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260827
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -186,18 +167,18 @@ UID:NzbDrone_episode_25639
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260901
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:THE GHOST IN THE SHELL - 1x09 - TBA
+SUMMARY:THE GHOST IN THE SHELL - 1x09 - EPISODE 09: GHOST COAST
 UID:NzbDrone_episode_26120
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:The ladies face off against Chelsea. Alice feels the pressure.
   Rebecca navigates a complicated dynamic.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260902
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -209,7 +190,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:On the run from the police\, Reacher and Tamara leave town in 
  search of the mysterious Ahlquist\, but they end up in trouble. Meanwhile
  \, in Philadelphia\, Jacob and Plum must face their own problems.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260902
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -220,12 +201,62 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:A space trickster traps the Enterprise crew in a soap opera as
   Pike mourns a lost life.
-DTSTAMP:20260810T020616Z
+DTSTAMP:20260817T020619Z
 DTSTART;VALUE=DATE:20260903
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Star Trek: Strange New Worlds - 4x07 - Like Chronitons Through the
   Hourglass
 UID:NzbDrone_episode_25640
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Fuji TV
+DTSTAMP:20260817T020619Z
+DTSTART;VALUE=DATE:20260908
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:THE GHOST IN THE SHELL - 1x10 - TBA
+UID:NzbDrone_episode_26121
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTSTAMP:20260817T020619Z
+DTSTART;VALUE=DATE:20260909
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ted Lasso - 4x06 - TBA
+UID:NzbDrone_episode_26197
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Reacher and Tamara finally get the answers they've been waitin
+ g for\, while Jacob discovers that their woes have just begun when Plum's
+  sources provide crucial information.
+DTSTAMP:20260817T020619Z
+DTSTART;VALUE=DATE:20260909
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Reacher - 4x07 - Vote for Sampson
+UID:NzbDrone_episode_26111
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Enterprise is commandeered by Admiral Reeger to track down an 
+ alien ship.
+DTSTAMP:20260817T020619Z
+DTSTART;VALUE=DATE:20260910
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Star Trek: Strange New Worlds - 4x08 - Orders of Magnitude
+UID:NzbDrone_episode_25641
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Uno
+DTSTAMP:20260817T020619Z
+DTSTART;VALUE=DATE:20260910
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:X Factor (IT) - 20x01 - TBA
+UID:NzbDrone_episode_25474
 END:VEVENT
 END:VCALENDAR
