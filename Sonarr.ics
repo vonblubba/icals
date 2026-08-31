@@ -5,59 +5,15 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DESCRIPTION:A robot flees from Megatech Body Co.\, Ltd. Section 9 takes it
-  into custody\, only to find that the Puppet Master is inside it. The Pup
- pet Master announces to Aramaki's team that it is "a life form that arose
-  spontaneously in the sea of information." Moments after it requests poli
- tical asylum\, it is stolen by an unknown party.
-DTSTAMP:20260824T020511Z
-DTSTART;VALUE=DATE:20260818
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:THE GHOST IN THE SHELL - 1x07 - EPISODE 07: BYE BYE CLAY
-UID:NzbDrone_episode_26118
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:Richmond’s shareholders are unsure about a women's team. The c
- oaches hold tryouts to fill out their roster.
-DTSTAMP:20260824T020511Z
-DTSTART;VALUE=DATE:20260819
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ted Lasso - 4x03 - Richmond’s Got Talent
-UID:NzbDrone_episode_26194
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:Reacher talks to Sampson\, Tamara breaks into a government str
- ucture\, Jacob gets bad news\, and the team learns information that chang
- es everything.
-DTSTAMP:20260824T020511Z
-DTSTART;VALUE=DATE:20260819
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Reacher - 4x04 - Karambits and Pieces
-UID:NzbDrone_episode_26108
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:A transporter accident turns everyone but Spock into puppets a
- s pirates invade the ship.
-DTSTAMP:20260824T020511Z
-DTSTART;VALUE=DATE:20260820
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Star Trek: Strange New Worlds - 4x05 - Level-Five Transporter Acci
- dent
-UID:NzbDrone_episode_25638
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Fuji TV
-DTSTAMP:20260824T020511Z
+DESCRIPTION:Kusanagi regains consciousness after a brain-dive into the Pup
+ pet Master. Although they now know the truth behind what happened\, Kusan
+ agi keeps sensing the Puppet Master's presence from time to time. The She
+ ll Squad raids a boat being used by a terrorist cell\, and Kusanagi mista
+ kenly guns down its leader.
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:THE GHOST IN THE SHELL - 1x08 - EPISODE 08: INTERMISSION + BRAIN D
  RAIN i
 UID:NzbDrone_episode_26119
@@ -66,11 +22,11 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:The coaches must figure out how to break up team cliques. Ted 
  adjusts to life outside the locker room.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Ted Lasso - 4x04 - Greyhounds’ Day Off
+STATUS:CONFIRMED
+SUMMARY:Ted Lasso - 4x04 - Greyhounds' Day Off
 UID:NzbDrone_episode_26195
 END:VEVENT
 BEGIN:VEVENT
@@ -79,10 +35,10 @@ DESCRIPTION:Following a misunderstanding\, Reacher becomes the most wanted
   man in Philadelphia. Old enemies track it down and new ones appear. Jaco
  b\, Tamara and Plum end up involved in a shooting and Jacob avenges his s
  ister's death.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Reacher - 4x05 - Bridge
 UID:NzbDrone_episode_26109
 END:VEVENT
@@ -90,27 +46,27 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:The Enterprise falls into a slipstream that pushes them to a c
  atastrophic warp threshold.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260827
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Star Trek: Strange New Worlds - 4x06 - Off-Hour
 UID:NzbDrone_episode_25639
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260901
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:THE GHOST IN THE SHELL - 1x09 - TBA
+SUMMARY:THE GHOST IN THE SHELL - 1x09 - EPISODE 09: BRAIN DRAIN ii
 UID:NzbDrone_episode_26120
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:The ladies face off against Chelsea. Alice feels the pressure.
   Rebecca navigates a complicated dynamic.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260902
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,7 +78,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:On the run from the police\, Reacher and Tamara leave town in 
  search of the mysterious Ahlquist\, but they end up in trouble. Meanwhile
  \, in Philadelphia\, Jacob and Plum must face their own problems.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260902
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -130,10 +86,21 @@ SUMMARY:Reacher - 4x06 - Plum Out of Luck
 UID:NzbDrone_episode_26110
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Something turns rotten in the state of California\, as two bla
+ ckmail plots reveal two devastating secrets.
+DTSTAMP:20260831T020642Z
+DTSTART;VALUE=DATE:20260903
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Shards - 1x08 - Hamlet
+UID:NzbDrone_episode_26243
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:A space trickster traps the Enterprise crew in a soap opera as
   Pike mourns a lost life.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260903
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -143,7 +110,7 @@ UID:NzbDrone_episode_25640
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fuji TV
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -152,7 +119,7 @@ UID:NzbDrone_episode_26121
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260909
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +131,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Reacher and Tamara finally get the answers they've been waitin
  g for\, while Jacob discovers that their woes have just begun when Plum's
   sources provide crucial information.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260909
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -172,10 +139,21 @@ SUMMARY:Reacher - 4x07 - Vote for Sampson
 UID:NzbDrone_episode_26111
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:With the city on lockdown\, Debbie hosts a Halloween party tha
+ t will change everything.
+DTSTAMP:20260831T020642Z
+DTSTART;VALUE=DATE:20260910
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Shards - 1x09 - Stairway to Heaven
+UID:NzbDrone_episode_26244
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Enterprise is commandeered by Admiral Reeger to track down an 
  alien ship.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -184,7 +162,7 @@ UID:NzbDrone_episode_25641
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -193,16 +171,16 @@ UID:NzbDrone_episode_25474
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Slow Horses - 6x01 - TBA
+SUMMARY:Slow Horses - 6x01 - Circle of Life
 UID:NzbDrone_episode_26055
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +193,7 @@ DESCRIPTION:Reacher\, Tamara and Jacob go on the attack as the real extent
   of the plot emerges. Reacher confronts those responsible for Anna's deat
  h\, Jacob is forced to face the truth\, and Plum has a chance to redeem h
  erself.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -224,7 +202,7 @@ UID:NzbDrone_episode_26112
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260917
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -235,11 +213,40 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:We return to the Elysian Kingdom\, but this time on a real fan
  tasy planet.
-DTSTAMP:20260824T020511Z
+DTSTAMP:20260831T020642Z
 DTSTART;VALUE=DATE:20260917
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Star Trek: Strange New Worlds - 4x09 - Once La'An a Time
 UID:NzbDrone_episode_25642
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTSTAMP:20260831T020642Z
+DTSTART;VALUE=DATE:20260923
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Slow Horses - 6x02 - Daddy Issues
+UID:NzbDrone_episode_26056
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTSTAMP:20260831T020642Z
+DTSTART;VALUE=DATE:20260923
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ted Lasso - 4x08 - TBA
+UID:NzbDrone_episode_26199
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:A time ripple damages the Enterprise\, forcing young and old U
+ hura to cooperate and fix the timeline.
+DTSTAMP:20260831T020642Z
+DTSTART;VALUE=DATE:20260924
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Star Trek: Strange New Worlds - 4x10 - Tomorrow's Enterprise
+UID:NzbDrone_episode_25643
 END:VEVENT
 END:VCALENDAR

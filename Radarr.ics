@@ -3,18 +3,4 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
-BEGIN:VEVENT
-CATEGORIES:Madants
-DESCRIPTION:Set in a near future society ruled by sentient A.I.\, a privat
- e eye investigates a murder case only to discover a rebel group capable o
- f undermining the digital overlord. As the detective's identity slowly un
- ravels\, his world enters a state of hypnotic meltdown.
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260824T020511Z
-DTSTART;VALUE=DATE:20260821
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hot Spot (Theatrical Release)
-UID:Radarr_movie_1613_cinemas
-END:VEVENT
 END:VCALENDAR
