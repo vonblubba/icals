@@ -3,4 +3,117 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Seaview Productions
+DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
+ s embarks on the tenuous journey toward recovery amid the opioid epidemic
+  in rural Ohio.
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20260814
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Union County (Theatrical Release)
+UID:Radarr_movie_1656_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Seaview Productions
+DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
+ s embarks on the tenuous journey toward recovery amid the opioid epidemic
+  in rural Ohio.
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20261002
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Union County (Digital Release)
+UID:Radarr_movie_1656_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Troll Court Entertainment
+DESCRIPTION:After Acme products fail him one too many times in his dogged 
+ pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
+ wyer to sue the Acme Corporation.
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20260820
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coyote vs. Acme (Theatrical Release)
+UID:Radarr_movie_1674_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Troll Court Entertainment
+DESCRIPTION:After Acme products fail him one too many times in his dogged 
+ pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
+ wyer to sue the Acme Corporation.
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20261005
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coyote vs. Acme (Digital Release)
+UID:Radarr_movie_1674_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Troll Court Entertainment
+DESCRIPTION:After Acme products fail him one too many times in his dogged 
+ pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
+ wyer to sue the Acme Corporation.
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20261109
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coyote vs. Acme (Physical Release)
+UID:Radarr_movie_1674_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Marvel Studios
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
+  remember him—and the pressure of seeing his old friends move on without 
+ him—sparks a change in Peter Parker he may not have the power to control.
+  But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no o
+ ne can even see.
+DTEND;VALUE=DATE:20260730
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20260729
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
+UID:Radarr_movie_1675_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Marvel Studios
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
+  remember him—and the pressure of seeing his old friends move on without 
+ him—sparks a change in Peter Parker he may not have the power to control.
+  But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no o
+ ne can even see.
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20260929
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spider-Man: Brand New Day (Digital Release)
+UID:Radarr_movie_1675_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Marvel Studios
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
+  remember him—and the pressure of seeing his old friends move on without 
+ him—sparks a change in Peter Parker he may not have the power to control.
+  But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no o
+ ne can even see.
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260914T020736Z
+DTSTART;VALUE=DATE:20261117
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spider-Man: Brand New Day (Physical Release)
+UID:Radarr_movie_1675_physical
+END:VEVENT
 END:VCALENDAR
