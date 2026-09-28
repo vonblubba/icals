@@ -4,13 +4,49 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Atomic Monster
+DESCRIPTION:A strange doorway appears in the basement of a furniture showr
+ oom.
+DTEND;VALUE=DATE:20260528
+DTSTAMP:20260928T020659Z
+DTSTART;VALUE=DATE:20260527
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backrooms (Theatrical Release)
+UID:Radarr_movie_1245_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Atomic Monster
+DESCRIPTION:A strange doorway appears in the basement of a furniture showr
+ oom.
+DTEND;VALUE=DATE:20260715
+DTSTAMP:20260928T020659Z
+DTSTART;VALUE=DATE:20260714
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backrooms (Digital Release)
+UID:Radarr_movie_1245_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Atomic Monster
+DESCRIPTION:A strange doorway appears in the basement of a furniture showr
+ oom.
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260928T020659Z
+DTSTART;VALUE=DATE:20261023
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Backrooms (Physical Release)
+UID:Radarr_movie_1245_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Annapurna Pictures
 DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +60,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +74,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20261005
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +87,7 @@ DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
  s embarks on the tenuous journey toward recovery amid the opioid epidemic
   in rural Ohio.
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260814
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -64,7 +100,7 @@ DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
  s embarks on the tenuous journey toward recovery amid the opioid epidemic
   in rural Ohio.
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20261002
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -72,42 +108,12 @@ SUMMARY:Union County (Digital Release)
 UID:Radarr_movie_1656_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:MUBI
-DESCRIPTION:After years of slapdash sequels\, the Camp Miasma franchise is
-  handed over to an enthusiastic young director for resurrection. But when
-  she visits the original’s star\, a now-reclusive actress shrouded in mys
- tery\, the two women fall into a blood-soaked world of desire\, fear\, an
- d delirium.
-DTEND;VALUE=DATE:20260807
-DTSTAMP:20260921T020558Z
-DTSTART;VALUE=DATE:20260806
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Teenage Sex and Death at Camp Miasma (Theatrical Release)
-UID:Radarr_movie_1667_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:MUBI
-DESCRIPTION:After years of slapdash sequels\, the Camp Miasma franchise is
-  handed over to an enthusiastic young director for resurrection. But when
-  she visits the original’s star\, a now-reclusive actress shrouded in mys
- tery\, the two women fall into a blood-soaked world of desire\, fear\, an
- d delirium.
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260921T020558Z
-DTSTART;VALUE=DATE:20260918
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Teenage Sex and Death at Camp Miasma (Digital Release)
-UID:Radarr_movie_1667_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Troll Court Entertainment
 DESCRIPTION:After Acme products fail him one too many times in his dogged 
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -120,7 +126,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -133,7 +139,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +155,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,7 +171,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -181,38 +187,12 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Spider-Man: Brand New Day (Physical Release)
 UID:Radarr_movie_1675_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Star Thrower Entertainment
-DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stu
- mbles into the chaotic world of a restaurant kitchen\, setting off a summ
- er that will shape the course of his life.
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20260921T020558Z
-DTSTART;VALUE=DATE:20260814
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tony (Theatrical Release)
-UID:Radarr_movie_1681_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Star Thrower Entertainment
-DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stu
- mbles into the chaotic world of a restaurant kitchen\, setting off a summ
- er that will shape the course of his life.
-DTEND;VALUE=DATE:20260916
-DTSTAMP:20260921T020558Z
-DTSTART;VALUE=DATE:20260915
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tony (Digital Release)
-UID:Radarr_movie_1681_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Imagine Entertainment
@@ -222,7 +202,7 @@ DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
  one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
  ns his father imparted may be the key to his escape.
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260921T020558Z
+DTSTAMP:20260928T020659Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:TENTATIVE
