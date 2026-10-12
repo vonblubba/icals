@@ -8,7 +8,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,12 +32,78 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Backrooms (Physical Release)
 UID:Radarr_movie_1245_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
+ oma four years after her jealous ex-lover Bill attempts to murder her on 
+ her wedding day. Fueled by an insatiable desire for revenge\, she vows to
+  get even with every person who contributed to the loss of her unborn chi
+ ld\, her entire wedding party\, and four years of her life.  After devisi
+ ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
+ jury and unscrupulous enemies.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20261012T020744Z
+DTSTART;VALUE=DATE:20251205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
+UID:Radarr_movie_1567_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
+ oma four years after her jealous ex-lover Bill attempts to murder her on 
+ her wedding day. Fueled by an insatiable desire for revenge\, she vows to
+  get even with every person who contributed to the loss of her unborn chi
+ ld\, her entire wedding party\, and four years of her life.  After devisi
+ ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
+ jury and unscrupulous enemies.
+DTEND;VALUE=DATE:20260217
+DTSTAMP:20261012T020744Z
+DTSTART;VALUE=DATE:20260216
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
+UID:Radarr_movie_1567_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
+ oma four years after her jealous ex-lover Bill attempts to murder her on 
+ her wedding day. Fueled by an insatiable desire for revenge\, she vows to
+  get even with every person who contributed to the loss of her unborn chi
+ ld\, her entire wedding party\, and four years of her life.  After devisi
+ ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
+ jury and unscrupulous enemies.
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261012T020744Z
+DTSTART;VALUE=DATE:20261105
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Physical Release)
+UID:Radarr_movie_1567_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TOHO
+DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
+ . Two years have passed since then\, and the country has faced agonizing 
+ struggles to achieve recovery and finally reclaim its daily life. Just as
+  humanity managed to cling to a hard-won peace\, a new threat strikes\, c
+ rushing hope in an instant.
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261012T020744Z
+DTSTART;VALUE=DATE:20261103
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Godzilla Minus Zero (Theatrical Release)
+UID:Radarr_movie_1600_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Annapurna Pictures
@@ -46,7 +112,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +126,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,125 +140,12 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20261005
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Invite (Physical Release)
 UID:Radarr_movie_1614_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Seaview Productions
-DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
- s embarks on the tenuous journey toward recovery amid the opioid epidemic
-  in rural Ohio.
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20260814
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Union County (Theatrical Release)
-UID:Radarr_movie_1656_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Seaview Productions
-DESCRIPTION:Assigned to a county-mandated drug court program\, Cody Parson
- s embarks on the tenuous journey toward recovery amid the opioid epidemic
-  in rural Ohio.
-DTEND;VALUE=DATE:20261003
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20261002
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Union County (Digital Release)
-UID:Radarr_movie_1656_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Troll Court Entertainment
-DESCRIPTION:After Acme products fail him one too many times in his dogged 
- pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
- wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20260821
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20260820
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coyote vs. Acme (Theatrical Release)
-UID:Radarr_movie_1674_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Troll Court Entertainment
-DESCRIPTION:After Acme products fail him one too many times in his dogged 
- pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
- wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20260929
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coyote vs. Acme (Digital Release)
-UID:Radarr_movie_1674_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Troll Court Entertainment
-DESCRIPTION:After Acme products fail him one too many times in his dogged 
- pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
- wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20261109
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coyote vs. Acme (Physical Release)
-UID:Radarr_movie_1674_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember him—and the pressure of seeing his old friends move on without 
- him—sparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20260729
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
-UID:Radarr_movie_1675_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember him—and the pressure of seeing his old friends move on without 
- him—sparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20261006
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Digital Release)
-UID:Radarr_movie_1675_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember him—and the pressure of seeing his old friends move on without 
- him—sparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20261203
-DTSTAMP:20261005T020532Z
-DTSTART;VALUE=DATE:20261202
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Physical Release)
-UID:Radarr_movie_1675_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Imagine Entertainment
@@ -202,7 +155,7 @@ DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
  one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
  ns his father imparted may be the key to his escape.
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261005T020532Z
+DTSTAMP:20261012T020744Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:TENTATIVE
