@@ -8,7 +8,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +49,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -66,7 +66,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +83,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -98,54 +98,12 @@ DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
   humanity managed to cling to a hard-won peace\, a new threat strikes\, c
  rushing hope in an instant.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Godzilla Minus Zero (Theatrical Release)
 UID:Radarr_movie_1600_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
- ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
- to unexpected places. Have they reignited the spark or lit the match that
-  burns it all down?
-DTEND;VALUE=DATE:20260626
-DTSTAMP:20261012T020744Z
-DTSTART;VALUE=DATE:20260625
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Invite (Theatrical Release)
-UID:Radarr_movie_1614_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
- ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
- to unexpected places. Have they reignited the spark or lit the match that
-  burns it all down?
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20261012T020744Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Invite (Digital Release)
-UID:Radarr_movie_1614_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
- ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
- to unexpected places. Have they reignited the spark or lit the match that
-  burns it all down?
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261012T020744Z
-DTSTART;VALUE=DATE:20261005
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Invite (Physical Release)
-UID:Radarr_movie_1614_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Imagine Entertainment
@@ -155,10 +113,10 @@ DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
  one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
  ns his father imparted may be the key to his escape.
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261012T020744Z
+DTSTAMP:20261019T021209Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Whalefall (Theatrical Release)
 UID:Radarr_movie_1698_cinemas
 END:VEVENT
