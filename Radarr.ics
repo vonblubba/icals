@@ -8,7 +8,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,12 +32,57 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Backrooms (Physical Release)
 UID:Radarr_movie_1245_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
+ d perilous journey home following the Trojan War. Throughout his voyage\,
+  he is forced to confront the whims of gods\, mythological monsters\, and
+  trials that stretch both his cunning and his humanity to the breaking po
+ int.
+DTEND;VALUE=DATE:20260716
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20260715
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Odyssey (Theatrical Release)
+UID:Radarr_movie_1309_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
+ d perilous journey home following the Trojan War. Throughout his voyage\,
+  he is forced to confront the whims of gods\, mythological monsters\, and
+  trials that stretch both his cunning and his humanity to the breaking po
+ int.
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261117
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Odyssey (Digital Release)
+UID:Radarr_movie_1309_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
+ d perilous journey home following the Trojan War. Throughout his voyage\,
+  he is forced to confront the whims of gods\, mythological monsters\, and
+  trials that stretch both his cunning and his humanity to the breaking po
+ int.
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261117
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Odyssey (Physical Release)
+UID:Radarr_movie_1309_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Miramax
@@ -49,7 +94,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -66,7 +111,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +128,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -96,9 +141,9 @@ DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
  . Two years have passed since then\, and the country has faced agonizing 
  struggles to achieve recovery and finally reclaim its daily life. Just as
   humanity managed to cling to a hard-won peace\, a new threat strikes\, c
- rushing hope in an instant.
+ rushing hope in an instant. There is no third time. Everything ends here.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -106,18 +151,27 @@ SUMMARY:Godzilla Minus Zero (Theatrical Release)
 UID:Radarr_movie_1600_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Imagine Entertainment
-DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
- ff the central Coast of California in search of his remains\, but is swal
- lowed by a massive sperm whale. While trapped inside its belly with only 
- one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
- ns his father imparted may be the key to his escape.
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261019T021209Z
-DTSTART;VALUE=DATE:20261014
+CATEGORIES:Constantin Film
+DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
+ urvival as one fateful\, horrifying night collapses around him in chaos.
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Whalefall (Theatrical Release)
-UID:Radarr_movie_1698_cinemas
+SUMMARY:Resident Evil (Theatrical Release)
+UID:Radarr_movie_1710_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Constantin Film
+DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
+ urvival as one fateful\, horrifying night collapses around him in chaos.
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261103
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Resident Evil (Digital Release)
+UID:Radarr_movie_1710_digital
 END:VEVENT
 END:VCALENDAR

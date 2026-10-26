@@ -4,172 +4,260 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:River goes after Sid. Lamb sets his sights on Cantor. Taverner
-  carries on with a treacherous deal.
-DTSTAMP:20261019T021209Z
-DTSTART;VALUE=DATE:20261014
+CATEGORIES:Netflix
+DESCRIPTION:A former edgerunner slipping into cyberpsychosis and a lonely 
+ survivor with a fractured past start their stories at opposite ends of Ni
+ ght City.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Slow Horses - 6x05 - Sayonara
-UID:NzbDrone_episode_26059
+SUMMARY:Cyberpunk: Edgerunners - 2x01 - Last Chance for a Slow Dance
+UID:NzbDrone_episode_26809
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:After uncovering a costly mistake made by Turk\, J.D. must dec
- ide whether to report him or let it slide. Meanwhile\, Elliot grows her r
- esponsibilities at Sacred Heart by leading a new initiative.
-DTSTAMP:20261019T021209Z
-DTSTART;VALUE=DATE:20261015
+CATEGORIES:Netflix
+DESCRIPTION:A desperate call drags Weak back into danger to save a rebelli
+ ous teen. As D bonds with a young cinephile\, painful flashbacks fuel his
+  thirst for revenge.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Scrubs (2026) - 2x04 - My Chief
-UID:NzbDrone_episode_26474
+SUMMARY:Cyberpunk: Edgerunners - 2x02 - Give Me Another Day
+UID:NzbDrone_episode_26810
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Comedy Central
-DESCRIPTION:When aura battles take over South America\, Kyle tries to help
-  his little brother not be cringe.
-DTSTAMP:20261019T021209Z
-DTSTART;VALUE=DATE:20261015
+CATEGORIES:Netflix
+DESCRIPTION:Weak tries to rescue Talia from a dangerous surgery\, but the 
+ confrontation ends in disaster. D and Roman discover a chaotic chip that 
+ sparks mayhem.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:South Park - 29x03 - You Like That On Your Face
-UID:NzbDrone_episode_25835
+SUMMARY:Cyberpunk: Edgerunners - 2x03 - 0 + 2 = 1
+UID:NzbDrone_episode_26811
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Uno
-DTSTAMP:20261019T021209Z
-DTSTART;VALUE=DATE:20261015
+CATEGORIES:Netflix
+DESCRIPTION:Armed with abilities he doesn't fully understand\, D uses Capr
+ i's power to infiltrate an Arasaka research facility. Talia and Weak find
+  common ground.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:X Factor (IT) - 20x06 - Last Call
-UID:NzbDrone_episode_26434
+SUMMARY:Cyberpunk: Edgerunners - 2x04 - Someone That I Used to Know
+UID:NzbDrone_episode_26812
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:The safe house becomes unsafe as Lamb and Taverner finally joi
- n forces.
-DTSTAMP:20261019T021209Z
-DTSTART;VALUE=DATE:20261021
+CATEGORIES:Netflix
+DESCRIPTION:An impulsive act sends Talia into a terrifying spiral. D's obs
+ ession with revenge reaches an unsettling new level of violence.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Slow Horses - 6x06 - Judgement Day
-UID:NzbDrone_episode_26060
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x05 - Fades (Pass the Distance)
+UID:NzbDrone_episode_26813
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:D becomes an anti-corporate vigilante and asks Roman to film h
+ is every move. Weak looks into rumors of tech that can transfer digitized
+  consciousness.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x06 - Everything Hate
+UID:NzbDrone_episode_26814
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Talia's condition takes a startling turn under Capri's watch. 
+ D reconnects with an old friend. Weak and Avida chase a miracle cure.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x07 - To the Depths With You
+UID:NzbDrone_episode_26815
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A riot ignites on the streets as D digs deeper into Project Ca
+ pricorn's dark past. With time running out\, Avida and Weak fight for Tal
+ ia's future.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x08 - Serce
+UID:NzbDrone_episode_26816
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Omi and D go off the grid\, and Kiril takes Talia into custody
+ . Kyoko pushes Project Capricorn forward with frightening results.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x09 - Strictly Reserved for You
+UID:NzbDrone_episode_26817
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A chilling transformation turns the city into a war zone\, eru
+ pting in an explosive confrontation.
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x10 - Then Everyone Went Home
+UID:NzbDrone_episode_26818
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DESCRIPTION:Turk is determined to have a fun birthday with J.D. and Elliot
  . Meanwhile\, the interns are challenged during the night shift.
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Scrubs (2026) - 2x05 - My Best Friend's Birthday
 UID:NzbDrone_episode_26568
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:Joanne and Noah celebrate moving in together — and discover ea
+ ch other's annoying household habits.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Nobody Wants This - 3x01 - It's Perfect
 UID:NzbDrone_episode_25644
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:As Noah makes another go at his dream job\, Joanne goes to ext
+ remes — and Judaism class — to shift the narrative about the couple's rel
+ ationship.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Nobody Wants This - 3x02 - Daddy's Home
 UID:NzbDrone_episode_25645
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:Joanne and Noah plan the perfect Jewish housewarming\, but Joa
+ nne's efforts to impress a callous ex-boyfriend invite awkwardness to the
+  party.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Nobody Wants This - 3x03 - Housewarming
 UID:NzbDrone_episode_25696
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:En route to wine country\, Joanne and Noah meet a messy podcas
+ t superfan who reminds Joanne of her younger self — and threatens to dera
+ il their weekend.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Nobody Wants This - 3x04 - The Wedding Planners
+STATUS:CONFIRMED
+SUMMARY:Nobody Wants This - 3x04 - Brian's Wedding
 UID:NzbDrone_episode_25697
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:A newly friendly Bina extends a dinner invite to Joanne\, but 
+ there's an ulterior motive at play. Sasha and Esther jump into the dating
+  pool.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Nobody Wants This - 3x05 - Brian's Wedding
+STATUS:CONFIRMED
+SUMMARY:Nobody Wants This - 3x05 - The Love Card
 UID:NzbDrone_episode_25875
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:With temperatures soaring\, Joanne and Noah's house becomes an
+  unexpected hot spot — and saying "no" to friends and relatives is making
+  them sweat.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Nobody Wants This - 3x06 - Heatwave
 UID:NzbDrone_episode_25876
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:A talk show brings Morgan and Sasha to New York\, where a magi
+ cal night out threatens to complicate their friendship. Noah and Joanne u
+ nplug for Shabbat.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Nobody Wants This - 3x07 - May I Have This Dance?
+STATUS:CONFIRMED
+SUMMARY:Nobody Wants This - 3x07 - Watch What Happens
 UID:NzbDrone_episode_25877
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:The fallout from their trip leaves Sasha and Morgan more confu
+ sed than ever. Noah struggles to set boundaries with an overbearing Bina.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Nobody Wants This - 3x08 - Watch What Happens
+STATUS:CONFIRMED
+SUMMARY:Nobody Wants This - 3x08 - One in a Million
 UID:NzbDrone_episode_26052
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:As Joanne is visited by ghosts of Christmas past\, Noah vows t
+ o make her final pre-conversion holiday the jolliest yet.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Nobody Wants This - 3x09 - Last Christmas
 UID:NzbDrone_episode_26053
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTSTAMP:20261019T021209Z
+DESCRIPTION:Emotions run high and shocking secrets are spilled as Joanne a
+ nd Noah's families gather for a beachy conversion ceremony.
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Nobody Wants This - 3x10 - I Jew
+STATUS:CONFIRMED
+SUMMARY:Nobody Wants This - 3x10 - The Plunge
 UID:NzbDrone_episode_26054
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:X Factor (IT) - 20x07 - Live 1
 UID:NzbDrone_episode_26435
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -178,7 +266,7 @@ UID:NzbDrone_episode_26569
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -187,7 +275,7 @@ UID:NzbDrone_episode_25836
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261029
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -196,7 +284,7 @@ UID:NzbDrone_episode_26436
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -205,7 +293,7 @@ UID:NzbDrone_episode_26577
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -214,16 +302,16 @@ UID:NzbDrone_episode_26437
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Scrubs (2026) - 2x08 - TBA
+SUMMARY:Scrubs (2026) - 2x08 - My Emergency
 UID:NzbDrone_episode_26578
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -232,11 +320,29 @@ UID:NzbDrone_episode_25837
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Uno
-DTSTAMP:20261019T021209Z
+DTSTAMP:20261026T020910Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:X Factor (IT) - 20x10 - Live 4
 UID:NzbDrone_episode_26438
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261119
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x09 - TBA
+UID:NzbDrone_episode_26579
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Uno
+DTSTAMP:20261026T020910Z
+DTSTART;VALUE=DATE:20261119
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:X Factor (IT) - 20x11 - Live 5
+UID:NzbDrone_episode_26439
 END:VEVENT
 END:VCALENDAR
