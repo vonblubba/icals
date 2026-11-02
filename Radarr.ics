@@ -4,42 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20260528
-DTSTAMP:20261026T020910Z
-DTSTART;VALUE=DATE:20260527
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Theatrical Release)
-UID:Radarr_movie_1245_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20260715
-DTSTAMP:20261026T020910Z
-DTSTART;VALUE=DATE:20260714
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Digital Release)
-UID:Radarr_movie_1245_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261026T020910Z
-DTSTART;VALUE=DATE:20261023
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Physical Release)
-UID:Radarr_movie_1245_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Universal Pictures
 DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
  d perilous journey home following the Trojan War. Throughout his voyage\,
@@ -47,7 +11,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261026T020910Z
+DTSTAMP:20261102T020618Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -62,7 +26,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261026T020910Z
+DTSTAMP:20261102T020618Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -77,63 +41,12 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261026T020910Z
+DTSTAMP:20261102T020618Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Odyssey (Physical Release)
 UID:Radarr_movie_1309_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20261026T020910Z
-DTSTART;VALUE=DATE:20251205
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
-UID:Radarr_movie_1567_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20261026T020910Z
-DTSTART;VALUE=DATE:20260216
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
-UID:Radarr_movie_1567_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20261106
-DTSTAMP:20261026T020910Z
-DTSTART;VALUE=DATE:20261105
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Physical Release)
-UID:Radarr_movie_1567_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:TOHO
@@ -143,7 +56,7 @@ DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
   humanity managed to cling to a hard-won peace\, a new threat strikes\, c
  rushing hope in an instant. There is no third time. Everything ends here.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261026T020910Z
+DTSTAMP:20261102T020618Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -155,7 +68,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261026T020910Z
+DTSTAMP:20261102T020618Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -167,11 +80,51 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261026T020910Z
+DTSTAMP:20261102T020618Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Resident Evil (Digital Release)
 UID:Radarr_movie_1710_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Constantin Film
+DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
+ urvival as one fateful\, horrifying night collapses around him in chaos.
+DTEND;VALUE=DATE:20270301
+DTSTAMP:20261102T020618Z
+DTSTART;VALUE=DATE:20270228
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Resident Evil (Physical Release)
+UID:Radarr_movie_1710_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mobra Films
+DESCRIPTION:After moving from Romania to a remote Norwegian village to reb
+ uild their lives\, a family finds hope in their welcoming neighbors\, but
+  their fragile new beginning is threatened when their young daughter arri
+ ves at school covered in bruises.
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20261102T020618Z
+DTSTART;VALUE=DATE:20260819
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fjord (Theatrical Release)
+UID:Radarr_movie_1733_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mobra Films
+DESCRIPTION:After moving from Romania to a remote Norwegian village to reb
+ uild their lives\, a family finds hope in their welcoming neighbors\, but
+  their fragile new beginning is threatened when their young daughter arri
+ ves at school covered in bruises.
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261102T020618Z
+DTSTART;VALUE=DATE:20261124
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fjord (Digital Release)
+UID:Radarr_movie_1733_digital
 END:VEVENT
 END:VCALENDAR
