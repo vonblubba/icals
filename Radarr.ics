@@ -4,51 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
- d perilous journey home following the Trojan War. Throughout his voyage\,
-  he is forced to confront the whims of gods\, mythological monsters\, and
-  trials that stretch both his cunning and his humanity to the breaking po
- int.
-DTEND;VALUE=DATE:20260716
-DTSTAMP:20261102T020618Z
-DTSTART;VALUE=DATE:20260715
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Odyssey (Theatrical Release)
-UID:Radarr_movie_1309_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
- d perilous journey home following the Trojan War. Throughout his voyage\,
-  he is forced to confront the whims of gods\, mythological monsters\, and
-  trials that stretch both his cunning and his humanity to the breaking po
- int.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261102T020618Z
-DTSTART;VALUE=DATE:20261117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Odyssey (Digital Release)
-UID:Radarr_movie_1309_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
- d perilous journey home following the Trojan War. Throughout his voyage\,
-  he is forced to confront the whims of gods\, mythological monsters\, and
-  trials that stretch both his cunning and his humanity to the breaking po
- int.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261102T020618Z
-DTSTART;VALUE=DATE:20261117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Odyssey (Physical Release)
-UID:Radarr_movie_1309_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:TOHO
 DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
  . Two years have passed since then\, and the country has faced agonizing 
@@ -56,10 +11,10 @@ DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
   humanity managed to cling to a hard-won peace\, a new threat strikes\, c
  rushing hope in an instant. There is no third time. Everything ends here.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261102T020618Z
+DTSTAMP:20261109T020816Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Godzilla Minus Zero (Theatrical Release)
 UID:Radarr_movie_1600_cinemas
 END:VEVENT
@@ -68,7 +23,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261102T020618Z
+DTSTAMP:20261109T020816Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -80,7 +35,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261102T020618Z
+DTSTAMP:20261109T020816Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -91,22 +46,53 @@ BEGIN:VEVENT
 CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20270301
-DTSTAMP:20261102T020618Z
-DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:20261229
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Resident Evil (Physical Release)
 UID:Radarr_movie_1710_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Columbia Pictures
+DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
+ of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
+ ourney that ends up blowing the whistle on the social network's most guar
+ ded secrets.
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:20261007
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Social Reckoning (Theatrical Release)
+UID:Radarr_movie_1718_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Columbia Pictures
+DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
+ of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
+ ourney that ends up blowing the whistle on the social network's most guar
+ ded secrets.
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:20261123
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Social Reckoning (Digital Release)
+UID:Radarr_movie_1718_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Mobra Films
-DESCRIPTION:After moving from Romania to a remote Norwegian village to reb
- uild their lives\, a family finds hope in their welcoming neighbors\, but
-  their fragile new beginning is threatened when their young daughter arri
- ves at school covered in bruises.
+DESCRIPTION:Following the deaths of Mihai's parents\, Mihai and Lisbet Ghe
+ orghiu leave their life behind in Romania and move with their children to
+  a remote village in Norway\, hoping to rebuild their lives near Lisbet's
+  family. There\, they grow close to their neighbors\, the Halbergs\, whos
+ e warmth gives them hope for a fresh start. But the fragile peace begins 
+ to unravel when the Gheorghiu family’s young daughter\, Elia\, arrives at
+  school covered in bruises.
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20261102T020618Z
+DTSTAMP:20261109T020816Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -115,16 +101,77 @@ UID:Radarr_movie_1733_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Mobra Films
-DESCRIPTION:After moving from Romania to a remote Norwegian village to reb
- uild their lives\, a family finds hope in their welcoming neighbors\, but
-  their fragile new beginning is threatened when their young daughter arri
- ves at school covered in bruises.
+DESCRIPTION:Following the deaths of Mihai's parents\, Mihai and Lisbet Ghe
+ orghiu leave their life behind in Romania and move with their children to
+  a remote village in Norway\, hoping to rebuild their lives near Lisbet's
+  family. There\, they grow close to their neighbors\, the Halbergs\, whos
+ e warmth gives them hope for a fresh start. But the fragile peace begins 
+ to unravel when the Gheorghiu family’s young daughter\, Elia\, arrives at
+  school covered in bruises.
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261102T020618Z
+DTSTAMP:20261109T020816Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Fjord (Digital Release)
 UID:Radarr_movie_1733_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Searchlight Pictures
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and Le
+ e are dispatched from Santiago to Easter Island by their bureau chief\, M
+ J. Amongst the Island's iconic statues\, and as the longtime partners wre
+ stle with their dark pasts and present conspiracies\, Chris's newfound bo
+ nd with a pair of rebellious students threatens to send everyone’s trip t
+ o this remote paradise sideways.
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:20261104
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wild Horse Nine (Theatrical Release)
+UID:Radarr_movie_1742_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Russo Productions
+DESCRIPTION:In 1634 France\, charismatic Father Urbain Grandier becomes th
+ e target of sexually depraved Sister Jeanne's accusations of witchcraft\,
+  which corrupt officials of church and state are all too happy to exploit
+ .​​​​​​​​​​​​​​​​
+DTEND;VALUE=DATE:19710717
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:19710716
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Devils (Theatrical Release)
+UID:Radarr_movie_1762_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Russo Productions
+DESCRIPTION:In 1634 France\, charismatic Father Urbain Grandier becomes th
+ e target of sexually depraved Sister Jeanne's accusations of witchcraft\,
+  which corrupt officials of church and state are all too happy to exploit
+ .​​​​​​​​​​​​​​​​
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:20261110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Devils (Digital Release)
+UID:Radarr_movie_1762_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Russo Productions
+DESCRIPTION:In 1634 France\, charismatic Father Urbain Grandier becomes th
+ e target of sexually depraved Sister Jeanne's accusations of witchcraft\,
+  which corrupt officials of church and state are all too happy to exploit
+ .​​​​​​​​​​​​​​​​
+DTEND;VALUE=DATE:20020522
+DTSTAMP:20261109T020816Z
+DTSTART;VALUE=DATE:20020521
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Devils (Physical Release)
+UID:Radarr_movie_1762_physical
 END:VEVENT
 END:VCALENDAR
