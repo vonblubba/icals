@@ -4,85 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:TOHO
-DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
- . Two years have passed since then\, and the country has faced agonizing 
- struggles to achieve recovery and finally reclaim its daily life. Just as
-  humanity managed to cling to a hard-won peace\, a new threat strikes\, c
- rushing hope in an instant. There is no third time. Everything ends here.
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261103
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Godzilla Minus Zero (Theatrical Release)
-UID:Radarr_movie_1600_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Constantin Film
-DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
- urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20260916
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Resident Evil (Theatrical Release)
-UID:Radarr_movie_1710_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Constantin Film
-DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
- urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261103
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Resident Evil (Digital Release)
-UID:Radarr_movie_1710_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Constantin Film
-DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
- urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20261230
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261229
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Resident Evil (Physical Release)
-UID:Radarr_movie_1710_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
- of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
- ourney that ends up blowing the whistle on the social network's most guar
- ded secrets.
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261007
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Social Reckoning (Theatrical Release)
-UID:Radarr_movie_1718_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
- of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
- ourney that ends up blowing the whistle on the social network's most guar
- ded secrets.
-DTEND;VALUE=DATE:20261124
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261123
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Social Reckoning (Digital Release)
-UID:Radarr_movie_1718_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Mobra Films
 DESCRIPTION:Following the deaths of Mihai's parents\, Mihai and Lisbet Ghe
  orghiu leave their life behind in Romania and move with their children to
@@ -92,7 +13,7 @@ DESCRIPTION:Following the deaths of Mihai's parents\, Mihai and Lisbet Ghe
  to unravel when the Gheorghiu family’s young daughter\, Elia\, arrives at
   school covered in bruises.
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20261109T020816Z
+DTSTAMP:20261116T020752Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +30,7 @@ DESCRIPTION:Following the deaths of Mihai's parents\, Mihai and Lisbet Ghe
  to unravel when the Gheorghiu family’s young daughter\, Elia\, arrives at
   school covered in bruises.
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261109T020816Z
+DTSTAMP:20261116T020752Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -117,61 +38,51 @@ SUMMARY:Fjord (Digital Release)
 UID:Radarr_movie_1733_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Searchlight Pictures
-DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and Le
- e are dispatched from Santiago to Easter Island by their bureau chief\, M
- J. Amongst the Island's iconic statues\, and as the longtime partners wre
- stle with their dark pasts and present conspiracies\, Chris's newfound bo
- nd with a pair of rebellious students threatens to send everyone’s trip t
- o this remote paradise sideways.
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261104
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20260716
+DTSTAMP:20261116T020752Z
+DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Wild Horse Nine (Theatrical Release)
-UID:Radarr_movie_1742_cinemas
+SUMMARY:Hope (Theatrical Release)
+UID:Radarr_movie_1772_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Russo Productions
-DESCRIPTION:In 1634 France\, charismatic Father Urbain Grandier becomes th
- e target of sexually depraved Sister Jeanne's accusations of witchcraft\,
-  which corrupt officials of church and state are all too happy to exploit
- .​​​​​​​​​​​​​​​​
-DTEND;VALUE=DATE:19710717
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:19710716
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20261116T020752Z
+DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Devils (Theatrical Release)
-UID:Radarr_movie_1762_cinemas
+SUMMARY:Hope (Digital Release)
+UID:Radarr_movie_1772_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Russo Productions
-DESCRIPTION:In 1634 France\, charismatic Father Urbain Grandier becomes th
- e target of sexually depraved Sister Jeanne's accusations of witchcraft\,
-  which corrupt officials of church and state are all too happy to exploit
- .​​​​​​​​​​​​​​​​
-DTEND;VALUE=DATE:20261111
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20261110
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20261116T020752Z
+DTSTART;VALUE=DATE:20261209
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Devils (Digital Release)
-UID:Radarr_movie_1762_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Russo Productions
-DESCRIPTION:In 1634 France\, charismatic Father Urbain Grandier becomes th
- e target of sexually depraved Sister Jeanne's accusations of witchcraft\,
-  which corrupt officials of church and state are all too happy to exploit
- .​​​​​​​​​​​​​​​​
-DTEND;VALUE=DATE:20020522
-DTSTAMP:20261109T020816Z
-DTSTART;VALUE=DATE:20020521
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Devils (Physical Release)
-UID:Radarr_movie_1762_physical
+SUMMARY:Hope (Physical Release)
+UID:Radarr_movie_1772_physical
 END:VEVENT
 END:VCALENDAR
